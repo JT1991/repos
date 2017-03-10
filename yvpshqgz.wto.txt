@@ -1,0 +1,28 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   01_building_escape/Building_Escape/.vs/Building_Escape/v14/.suo
+#	new file:   01_building_escape/Building_Escape/Binaries/Win64/Building_EscapeEditor.target
+#	new file:   01_building_escape/Building_Escape/Binaries/Win64/UE4Editor-Building_Escape-7368.dll
+#	new file:   01_building_escape/Building_Escape/Binaries/Win64/UE4Editor-Building_Escape-7368.pdb
+#	new file:   01_building_escape/Building_Escape/Binaries/Win64/UE4Editor-Building_Escape.dll
+#	new file:   01_building_escape/Building_Escape/Binaries/Win64/UE4Editor-Building_Escape.pdb
+#	new file:   01_building_escape/Building_Escape/Binaries/Win64/UE4Editor.modules
+#	new file:   01_building_escape/Building_Escape/Building_Escape.VC.db
+#	new file:   01_building_escape/Building_Escape/Building_Escape.sln
+#	new file:   01_building_escape/Building_Escape/Building_Escape.uproject
+#
+# Untracked files:
+#	01_building_escape/Building_Escape/Building_Escape.VC.VC.opendb
+#	01_building_escape/Building_Escape/Config/
+#	01_building_escape/Building_Escape/Content/
+#	01_building_escape/Building_Escape/Intermediate/
+#	01_building_escape/Building_Escape/Saved/
+#	01_building_escape/Building_Escape/Source/
+#
+

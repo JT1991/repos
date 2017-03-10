@@ -1,0 +1,1192 @@
+﻿Log file open, 03/08/17 17:00:51
+LogInit:Display: Running engine for game: Building_Escape
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(-475225126) SRandInit(-475225126).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.074120
+LogPluginManager: Loaded Plugin Paper2D, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin LiveEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/LiveEditor/LiveEditor.uplugin
+LogPluginManager: Loaded Plugin OSVR, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LiveEditorListenServer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/LiveEditorListenServer/LiveEditorListenServer.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with WinSSL
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.13-CL-3172292
+LogInit: Engine Version: 4.13.2-3172292+++UE4+Release-4.13
+LogInit: Compatible Engine Version: 4.13.0-3106830+++UE4+Release-4.13
+LogInit: Net CL: 3172292
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 5
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 6
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 12
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 4
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 0
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Oct 24 2016 14:29:06
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.13
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/Program Files (x86)/Epic Games/4.13/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.03.08-17.00.51:354][  0]LogInit: Selected Device Profile: [Windows]
+[2017.03.08-17.00.51:354][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.03.08-17.00.51:441][  0]LogInit: Computer: JOSH-PC
+[2017.03.08-17.00.51:441][  0]LogInit: User: Josh
+[2017.03.08-17.00.51:441][  0]LogInit: CPU Page size=65536, Cores=4
+[2017.03.08-17.00.51:441][  0]LogInit: High frequency timer resolution =3.215213 MHz
+[2017.03.08-17.00.51:441][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2017.03.08-17.00.51:441][  0]LogMemory: Platform Memory Stats for Windows
+[2017.03.08-17.00.51:441][  0]LogMemory: Process Physical Memory: 255.38 MB used, 255.38 MB peak
+[2017.03.08-17.00.51:441][  0]LogMemory: Process Virtual Memory: 259.96 MB used, 259.96 MB peak
+[2017.03.08-17.00.51:441][  0]LogMemory: Physical Memory: 5736.04 MB used, 8126.95 MB total
+[2017.03.08-17.00.51:441][  0]LogMemory: Virtual Memory: 622.36 MB used, 134217728.00 MB total
+[2017.03.08-17.00.51:688][  0]LogTextLocalizationManager: No specific translations for ('en-GB') exist, so ('en') translations will be used.
+[2017.03.08-17.01.01:795][  0]LogD3D11RHI: D3D11 adapters:
+[2017.03.08-17.01.01:842][  0]LogD3D11RHI:    0. 'AMD Radeon R9 200 Series' (Feature Level 11_0)
+[2017.03.08-17.01.01:842][  0]LogD3D11RHI:       4073/0/4063 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2017.03.08-17.01.01:844][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.03.08-17.01.01:844][  0]LogD3D11RHI:       0/0/4063 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.03.08-17.01.01:844][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.03.08-17.01.01:850][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.03.08-17.01.01:850][  0]LogD3D11RHI:     GPU DeviceId: 0x67b1 (for the marketing name, search the web for "GPU Device Id")
+[2017.03.08-17.01.01:850][  0]LogWindows: EnumDisplayDevices:
+[2017.03.08-17.01.01:851][  0]LogWindows:    0. 'AMD Radeon R9 200 Series' (P:1 D:1)
+[2017.03.08-17.01.01:851][  0]LogWindows:    1. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2017.03.08-17.01.01:851][  0]LogWindows:    2. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2017.03.08-17.01.01:851][  0]LogWindows:    3. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2017.03.08-17.01.01:852][  0]LogWindows:    4. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2017.03.08-17.01.01:853][  0]LogWindows:    5. 'AMD Radeon R9 200 Series' (P:0 D:0)
+[2017.03.08-17.01.01:853][  0]LogWindows: DebugString: FoundDriverCount:6 
+[2017.03.08-17.01.01:853][  0]LogD3D11RHI:     Adapter Name: AMD Radeon R9 200 Series
+[2017.03.08-17.01.01:853][  0]LogD3D11RHI:   Driver Version: Crimson ReLive 17.2.1 (internal:21.19.519.2, unified:21.19.519.2)
+[2017.03.08-17.01.01:853][  0]LogD3D11RHI:      Driver Date: 2-10-2017
+[2017.03.08-17.01.01:853][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.03.08-17.01.01:913][  0]LogD3D11RHI: Async texture creation enabled
+[2017.03.08-17.01.01:944][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2017.03.08-17.01.01:945][  0]LogShaderCompilers: Guid format shader working directory is -51 characters bigger than the processId version (../../../../../../Users/Josh/Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Intermediate/Shaders/WorkingDirectory/21084/).
+[2017.03.08-17.01.01:946][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Josh/AppData/Local/Temp/UnrealShaderWorkingDir/46810866491CAC1E5F27D4B523BF6847/'.
+[2017.03.08-17.01.01:946][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2017.03.08-17.01.07:718][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2017.03.08-17.01.07:726][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2017.03.08-17.01.07:736][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.03.08-17.01.07:749][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2017.03.08-17.01.07:761][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2017.03.08-17.01.07:791][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2017.03.08-17.01.07:798][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2017.03.08-17.01.07:805][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2017.03.08-17.01.07:812][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2017.03.08-17.01.07:820][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2017.03.08-17.01.07:827][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2017.03.08-17.01.07:842][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2017.03.08-17.01.07:842][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.03.08-17.01.07:843][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2017.03.08-17.01.07:869][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2017.03.08-17.01.07:875][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2017.03.08-17.01.07:882][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2017.03.08-17.01.07:892][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.03.08-17.01.07:899][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2017.03.08-17.01.07:909][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2017.03.08-17.01.07:909][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2017.03.08-17.01.08:015][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2017.03.08-17.01.08:092][  0]LogDerivedDataCache: Loaded boot cache 0.08s 62MB C:/Users/Josh/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc.
+[2017.03.08-17.01.08:092][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/Josh/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc
+[2017.03.08-17.01.08:092][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Josh/Documents/Unreal Projects/repos/01_building_escape/Building_Escape/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.03.08-17.01.08:092][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.03.08-17.01.08:092][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Josh/Documents/Unreal Projects/repos/01_building_escape/Building_Escape/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.03.08-17.01.08:092][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.03.08-17.01.08:109][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.03.08-17.01.08:121][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Josh/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.03.08-17.01.09:803][  0]LogInit: Selected Device Profile: [Windows]
+[2017.03.08-17.01.09:808][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.03.08-17.01.09:921][  0]LogMeshUtilities: No automatic mesh reduction module available
+[2017.03.08-17.01.09:921][  0]LogMeshUtilities: No automatic mesh merging module available
+[2017.03.08-17.01.09:921][  0]LogMeshUtilities: No distributed automatic mesh merging module available
+[2017.03.08-17.01.10:010][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.03.08-17.01.11:026][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3106830, ProjectName: building_escape, ProjectVersion: , EngineNetworkVersion: 1, GameNetworkVersion: 0, NetworkChecksum: 1592206614
+[2017.03.08-17.01.11:073][  0]LogAssetRegistry: FAssetRegistry took 0.0231 seconds to start up
+[2017.03.08-17.01.11:113][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 2 prioritized culture(s) in 0.037415 seconds
+[2017.03.08-17.01.11:120][  0]LogUObjectArray: 29778 objects as part of root set at end of initial load.
+[2017.03.08-17.01.11:120][  0]LogUObjectAllocator: 6125448 out of 0 bytes used by permanent object pool.
+[2017.03.08-17.01.11:120][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.03.08-17.01.11:136][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.03.08-17.01.11:805][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.03.08-17.01.11:805][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.03.08-17.01.25:621][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.03.08-17.01.25:647][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.03.08-17.01.25:926][  0]SourceControl: Info Source control is disabled
+[2017.03.08-17.01.26:119][  0]SourceControl: Info Source control is disabled
+[2017.03.08-17.01.26:134][  0]SourceControl: Info Source control is disabled
+[2017.03.08-17.01.26:145][  0]SourceControl: Info Source control is disabled
+[2017.03.08-17.01.26:532][  0]LogEngine: Initializing Engine...
+[2017.03.08-17.01.26:533][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.03.08-17.01.26:688][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.03.08-17.01.26:711][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.08-17.01.26:727][  0]LogInit: FAudioDevice initialized.
+[2017.03.08-17.01.26:764][  0]LogDerivedDataCache: Saved boot cache 0.04s 62MB C:/Users/Josh/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc.
+[2017.03.08-17.01.26:772][  0]LogInit: Texture streaming: Enabled
+[2017.03.08-17.01.26:804][  0]LogInit: Transaction tracking system initialized
+[2017.03.08-17.01.26:830][  0]BlueprintLog: New page: Editor Load
+[2017.03.08-17.01.26:919][  0]LocalizationService: Info Localization service is disabled
+[2017.03.08-17.01.27:027][  0]LogConsoleResponse:Display: 
+[2017.03.08-17.01.27:170][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.03.08-17.01.27:170][  0]LogCook:Display: Mobile HDR setting 1
+[2017.03.08-17.01.27:401][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Josh/Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Content/' took 0.01s
+[2017.03.08-17.01.27:401][  0]SourceControl: Info Source control is disabled
+[2017.03.08-17.01.27:402][  0]LightingResults: New page: Lighting Build
+[2017.03.08-17.01.27:404][  0]MapCheck: New page: Map Check
+[2017.03.08-17.01.27:405][  0]LightingResults: New page: Lighting Build
+[2017.03.08-17.01.27:762][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2017.03.08-17.01.27:770][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.03.08-17.01.27:771][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.03.08-17.01.27:887][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 116.6ms to complete.
+[2017.03.08-17.01.27:887][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.486
+[2017.03.08-17.01.28:072][  0]LogCollectionManager: Loaded 0 collections in 0.002321 seconds
+[2017.03.08-17.01.28:119][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Josh/Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Saved/Collections/' took 0.01s
+[2017.03.08-17.01.28:119][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Josh/Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Content/Developers/Josh/Collections/' took 0.01s
+[2017.03.08-17.01.28:119][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Josh/Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Content/Collections/' took 0.01s
+[2017.03.08-17.01.28:119][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2017.03.08-17.01.28:139][  0]LogContentBrowser: Native class hierarchy populated in 0.0197 seconds. Added 2142 classes and 417 folders.
+[2017.03.08-17.01.28:143][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.03.08-17.01.28:143][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.03.08-17.01.28:146][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0031 seconds. Added 12 classes and 0 folders.
+[2017.03.08-17.01.28:159][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0028 seconds. Added 0 classes and 0 folders.
+[2017.03.08-17.01.28:274][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0024 seconds. Added 0 classes and 0 folders.
+[2017.03.08-17.01.28:283][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0023 seconds. Added 1 classes and 2 folders.
+[2017.03.08-17.01.28:301][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2017.03.08-17.01.28:386][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0076 seconds. Added 1 classes and 2 folders.
+[2017.03.08-17.01.28:386][  0]LogLoad: (Engine Initialization) Total time: 42.33 seconds
+[2017.03.08-17.01.28:386][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.52 seconds
+[2017.03.08-17.01.28:386][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.03.08-17.01.28:386][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.03.08-17.01.28:726][  0]LogOcInput: OculusInput pre-init called
+[2017.03.08-17.01.28:744][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.03.08-17.01.29:074][  1]LogRenderer: Reallocating scene render targets to support 816x372 (Frame:2).
+[2017.03.08-17.01.29:074][  1]LogAssetRegistry: Asset discovery search completed in 18.0244 seconds
+[2017.03.08-17.01.29:074][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.03.08-17.01.29:074][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000020 seconds (updated 0 objects)
+[2017.03.08-17.09.29:739][931]SourceControl: Info On branch master
+[2017.03.08-17.09.29:739][931]SourceControl: Info Your branch is up-to-date with 'origin/master'.
+[2017.03.08-17.09.29:739][931]SourceControl: Info Untracked files:
+[2017.03.08-17.09.29:739][931]SourceControl: Info   (use "git add <file>..." to include in what will be committed)
+[2017.03.08-17.09.29:739][931]SourceControl: Info 	.VirtualBox/
+[2017.03.08-17.09.29:739][931]SourceControl: Info 	.anaconda/
+[2017.03.08-17.09.29:739][931]SourceControl: Info 	.android/
+[2017.03.08-17.09.29:739][931]SourceControl: Info 	.emulator_console_auth_token
+[2017.03.08-17.09.29:739][931]SourceControl: Info 	.gem/
+[2017.03.08-17.09.29:739][931]SourceControl: Info 	.get_iplayer/
+[2017.03.08-17.09.29:739][931]SourceControl: Info 	.gitattributes
+[2017.03.08-17.09.29:739][931]SourceControl: Info 	.gitconfig
+[2017.03.08-17.09.29:739][931]SourceControl: Info 	.gitignore
+[2017.03.08-17.09.29:739][931]SourceControl: Info 	.idlerc/
+[2017.03.08-17.09.29:739][931]SourceControl: Info 	.ipython/
+[2017.03.08-17.09.29:739][931]SourceControl: Info 	.nbi/
+[2017.03.08-17.09.29:739][931]SourceControl: Info 	.netbeans-derby/
+[2017.03.08-17.09.29:739][931]SourceControl: Info 	.oracle_jre_usage/
+[2017.03.08-17.09.29:739][931]SourceControl: Info 	.recently-used.xbel
+[2017.03.08-17.09.29:739][931]SourceControl: Info 	.ssh/
+[2017.03.08-17.09.29:739][931]SourceControl: Info 	.vagrant.d/
+[2017.03.08-17.09.29:739][931]SourceControl: Info 	3D Objects/
+[2017.03.08-17.09.29:739][931]SourceControl: Info 	Anaconda3/
+[2017.03.08-17.09.29:739][931]SourceControl: Info 	AppData/
+[2017.03.08-17.09.29:739][931]SourceControl: Info 	Contacts/
+[2017.03.08-17.09.29:739][931]SourceControl: Info 	Desktop/
+[2017.03.08-17.09.29:739][931]SourceControl: Info 	Documents/
+[2017.03.08-17.09.29:739][931]SourceControl: Info 	Downloads/
+[2017.03.08-17.09.29:739][931]SourceControl: Info 	Favorites/
+[2017.03.08-17.09.29:739][931]SourceControl: Info 	GameMaker-Studio 1.4/
+[2017.03.08-17.09.29:739][931]SourceControl: Info 	GameMakerPlayer/
+[2017.03.08-17.09.29:739][931]SourceControl: Info 	Heaven/
+[2017.03.08-17.09.29:739][931]SourceControl: Info 	IntelGraphicsProfiles/
+[2017.03.08-17.09.29:739][931]SourceControl: Info 	Links/
+[2017.03.08-17.09.29:739][931]SourceControl: Info 	Music/
+[2017.03.08-17.09.29:740][931]SourceControl: Info 	NTUSER.DAT
+[2017.03.08-17.09.29:740][931]SourceControl: Info 	NTUSER.DAT{4b349b30-bee4-11e6-9c7a-d8fc9311f67a}.TM.blf
+[2017.03.08-17.09.29:740][931]SourceControl: Info 	NTUSER.DAT{4b349b30-bee4-11e6-9c7a-d8fc9311f67a}.TMContainer00000000000000000001.regtrans-ms
+[2017.03.08-17.09.29:740][931]SourceControl: Info 	NTUSER.DAT{4b349b30-bee4-11e6-9c7a-d8fc9311f67a}.TMContainer00000000000000000002.regtrans-ms
+[2017.03.08-17.09.29:740][931]SourceControl: Info 	NTUSER.DAT{b1d2178d-83f5-11e6-a284-fd72836239f0}.TxR.0.regtrans-ms
+[2017.03.08-17.09.29:740][931]SourceControl: Info 	NTUSER.DAT{b1d2178d-83f5-11e6-a284-fd72836239f0}.TxR.1.regtrans-ms
+[2017.03.08-17.09.29:740][931]SourceControl: Info 	NTUSER.DAT{b1d2178d-83f5-11e6-a284-fd72836239f0}.TxR.2.regtrans-ms
+[2017.03.08-17.09.29:740][931]SourceControl: Info 	NTUSER.DAT{b1d2178d-83f5-11e6-a284-fd72836239f0}.TxR.blf
+[2017.03.08-17.09.29:740][931]SourceControl: Info 	NTUSER.DAT{b1d2178e-83f5-11e6-a284-fd72836239f0}.TM.blf
+[2017.03.08-17.09.29:740][931]SourceControl: Info 	NTUSER.DAT{b1d2178e-83f5-11e6-a284-fd72836239f0}.TMContainer00000000000000000001.regtrans-ms
+[2017.03.08-17.09.29:740][931]SourceControl: Info 	NTUSER.DAT{b1d2178e-83f5-11e6-a284-fd72836239f0}.TMContainer00000000000000000002.regtrans-ms
+[2017.03.08-17.09.29:740][931]SourceControl: Info 	OneDrive/
+[2017.03.08-17.09.29:740][931]SourceControl: Info 	Pictures/
+[2017.03.08-17.09.29:740][931]SourceControl: Info 	Saved Games/
+[2017.03.08-17.09.29:740][931]SourceControl: Info 	Searches/
+[2017.03.08-17.09.29:740][931]SourceControl: Info 	Videos/
+[2017.03.08-17.09.29:740][931]SourceControl: Info 	VirtualBox VMs/
+[2017.03.08-17.09.29:740][931]SourceControl: Info 	ntuser.dat.LOG1
+[2017.03.08-17.09.29:740][931]SourceControl: Info 	ntuser.dat.LOG2
+[2017.03.08-17.09.29:740][931]SourceControl: Info 	ntuser.ini
+[2017.03.08-17.09.29:740][931]SourceControl: Info nothing added to commit but untracked files present (use "git add" to track)
+[2017.03.08-17.09.39:915][135]SourceControl: Info fatal: C:/Program Files (x86)/Epic Games/4.13/Engine/Content/: 'C:/Program Files (x86)/Epic Games/4.13/Engine/Content/' is outside repository
+[2017.03.08-17.09.40:042][135]EditorErrors:Warning: Warning No assets to check in!
+[2017.03.08-17.09.58:719][317]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2017.03.08-17.10.08:071][393]SourceControl: Info On branch master
+[2017.03.08-17.10.08:071][393]SourceControl: Info Your branch is up-to-date with 'origin/master'.
+[2017.03.08-17.10.08:071][393]SourceControl: Info Untracked files:
+[2017.03.08-17.10.08:071][393]SourceControl: Info   (use "git add <file>..." to include in what will be committed)
+[2017.03.08-17.10.08:071][393]SourceControl: Info 	.VirtualBox/
+[2017.03.08-17.10.08:071][393]SourceControl: Info 	.anaconda/
+[2017.03.08-17.10.08:071][393]SourceControl: Info 	.android/
+[2017.03.08-17.10.08:071][393]SourceControl: Info 	.emulator_console_auth_token
+[2017.03.08-17.10.08:071][393]SourceControl: Info 	.gem/
+[2017.03.08-17.10.08:071][393]SourceControl: Info 	.get_iplayer/
+[2017.03.08-17.10.08:071][393]SourceControl: Info 	.gitattributes
+[2017.03.08-17.10.08:071][393]SourceControl: Info 	.gitconfig
+[2017.03.08-17.10.08:071][393]SourceControl: Info 	.gitignore
+[2017.03.08-17.10.08:071][393]SourceControl: Info 	.idlerc/
+[2017.03.08-17.10.08:071][393]SourceControl: Info 	.ipython/
+[2017.03.08-17.10.08:071][393]SourceControl: Info 	.nbi/
+[2017.03.08-17.10.08:071][393]SourceControl: Info 	.netbeans-derby/
+[2017.03.08-17.10.08:071][393]SourceControl: Info 	.oracle_jre_usage/
+[2017.03.08-17.10.08:071][393]SourceControl: Info 	.recently-used.xbel
+[2017.03.08-17.10.08:071][393]SourceControl: Info 	.ssh/
+[2017.03.08-17.10.08:071][393]SourceControl: Info 	.vagrant.d/
+[2017.03.08-17.10.08:071][393]SourceControl: Info 	3D Objects/
+[2017.03.08-17.10.08:071][393]SourceControl: Info 	Anaconda3/
+[2017.03.08-17.10.08:071][393]SourceControl: Info 	AppData/
+[2017.03.08-17.10.08:071][393]SourceControl: Info 	Contacts/
+[2017.03.08-17.10.08:071][393]SourceControl: Info 	Desktop/
+[2017.03.08-17.10.08:071][393]SourceControl: Info 	Documents/
+[2017.03.08-17.10.08:072][393]SourceControl: Info 	Downloads/
+[2017.03.08-17.10.08:072][393]SourceControl: Info 	Favorites/
+[2017.03.08-17.10.08:072][393]SourceControl: Info 	GameMaker-Studio 1.4/
+[2017.03.08-17.10.08:072][393]SourceControl: Info 	GameMakerPlayer/
+[2017.03.08-17.10.08:072][393]SourceControl: Info 	Heaven/
+[2017.03.08-17.10.08:072][393]SourceControl: Info 	IntelGraphicsProfiles/
+[2017.03.08-17.10.08:072][393]SourceControl: Info 	Links/
+[2017.03.08-17.10.08:072][393]SourceControl: Info 	Music/
+[2017.03.08-17.10.08:072][393]SourceControl: Info 	NTUSER.DAT
+[2017.03.08-17.10.08:072][393]SourceControl: Info 	NTUSER.DAT{4b349b30-bee4-11e6-9c7a-d8fc9311f67a}.TM.blf
+[2017.03.08-17.10.08:072][393]SourceControl: Info 	NTUSER.DAT{4b349b30-bee4-11e6-9c7a-d8fc9311f67a}.TMContainer00000000000000000001.regtrans-ms
+[2017.03.08-17.10.08:072][393]SourceControl: Info 	NTUSER.DAT{4b349b30-bee4-11e6-9c7a-d8fc9311f67a}.TMContainer00000000000000000002.regtrans-ms
+[2017.03.08-17.10.08:072][393]SourceControl: Info 	NTUSER.DAT{b1d2178d-83f5-11e6-a284-fd72836239f0}.TxR.0.regtrans-ms
+[2017.03.08-17.10.08:072][393]SourceControl: Info 	NTUSER.DAT{b1d2178d-83f5-11e6-a284-fd72836239f0}.TxR.1.regtrans-ms
+[2017.03.08-17.10.08:072][393]SourceControl: Info 	NTUSER.DAT{b1d2178d-83f5-11e6-a284-fd72836239f0}.TxR.2.regtrans-ms
+[2017.03.08-17.10.08:072][393]SourceControl: Info 	NTUSER.DAT{b1d2178d-83f5-11e6-a284-fd72836239f0}.TxR.blf
+[2017.03.08-17.10.08:072][393]SourceControl: Info 	NTUSER.DAT{b1d2178e-83f5-11e6-a284-fd72836239f0}.TM.blf
+[2017.03.08-17.10.08:072][393]SourceControl: Info 	NTUSER.DAT{b1d2178e-83f5-11e6-a284-fd72836239f0}.TMContainer00000000000000000001.regtrans-ms
+[2017.03.08-17.10.08:072][393]SourceControl: Info 	NTUSER.DAT{b1d2178e-83f5-11e6-a284-fd72836239f0}.TMContainer00000000000000000002.regtrans-ms
+[2017.03.08-17.10.08:072][393]SourceControl: Info 	OneDrive/
+[2017.03.08-17.10.08:072][393]SourceControl: Info 	Pictures/
+[2017.03.08-17.10.08:072][393]SourceControl: Info 	Saved Games/
+[2017.03.08-17.10.08:072][393]SourceControl: Info 	Searches/
+[2017.03.08-17.10.08:072][393]SourceControl: Info 	Videos/
+[2017.03.08-17.10.08:072][393]SourceControl: Info 	VirtualBox VMs/
+[2017.03.08-17.10.08:072][393]SourceControl: Info 	ntuser.dat.LOG1
+[2017.03.08-17.10.08:072][393]SourceControl: Info 	ntuser.dat.LOG2
+[2017.03.08-17.10.08:072][393]SourceControl: Info 	ntuser.ini
+[2017.03.08-17.10.08:072][393]SourceControl: Info nothing added to commit but untracked files present (use "git add" to track)
+[2017.03.08-17.13.54:291][ 71]SourceControl: Info fatal: C:/Program Files (x86)/Epic Games/4.13/Engine/Content/: 'C:/Program Files (x86)/Epic Games/4.13/Engine/Content/' is outside repository
+[2017.03.08-17.14.29:771][668]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2017.03.08-17.15.17:860][519]SourceControl: Info On branch master
+[2017.03.08-17.15.17:860][519]SourceControl: Info Your branch is up-to-date with 'origin/master'.
+[2017.03.08-17.15.17:860][519]SourceControl: Info Untracked files:
+[2017.03.08-17.15.17:860][519]SourceControl: Info   (use "git add <file>..." to include in what will be committed)
+[2017.03.08-17.15.17:860][519]SourceControl: Info 	.VirtualBox/
+[2017.03.08-17.15.17:860][519]SourceControl: Info 	.anaconda/
+[2017.03.08-17.15.17:860][519]SourceControl: Info 	.android/
+[2017.03.08-17.15.17:860][519]SourceControl: Info 	.emulator_console_auth_token
+[2017.03.08-17.15.17:860][519]SourceControl: Info 	.gem/
+[2017.03.08-17.15.17:860][519]SourceControl: Info 	.get_iplayer/
+[2017.03.08-17.15.17:860][519]SourceControl: Info 	.gitattributes
+[2017.03.08-17.15.17:860][519]SourceControl: Info 	.gitconfig
+[2017.03.08-17.15.17:860][519]SourceControl: Info 	.gitignore
+[2017.03.08-17.15.17:860][519]SourceControl: Info 	.idlerc/
+[2017.03.08-17.15.17:860][519]SourceControl: Info 	.ipython/
+[2017.03.08-17.15.17:860][519]SourceControl: Info 	.nbi/
+[2017.03.08-17.15.17:860][519]SourceControl: Info 	.netbeans-derby/
+[2017.03.08-17.15.17:860][519]SourceControl: Info 	.oracle_jre_usage/
+[2017.03.08-17.15.17:860][519]SourceControl: Info 	.recently-used.xbel
+[2017.03.08-17.15.17:860][519]SourceControl: Info 	.ssh/
+[2017.03.08-17.15.17:860][519]SourceControl: Info 	.vagrant.d/
+[2017.03.08-17.15.17:860][519]SourceControl: Info 	3D Objects/
+[2017.03.08-17.15.17:860][519]SourceControl: Info 	Anaconda3/
+[2017.03.08-17.15.17:860][519]SourceControl: Info 	AppData/
+[2017.03.08-17.15.17:860][519]SourceControl: Info 	Contacts/
+[2017.03.08-17.15.17:860][519]SourceControl: Info 	Desktop/
+[2017.03.08-17.15.17:860][519]SourceControl: Info 	Documents/
+[2017.03.08-17.15.17:860][519]SourceControl: Info 	Downloads/
+[2017.03.08-17.15.17:860][519]SourceControl: Info 	Favorites/
+[2017.03.08-17.15.17:860][519]SourceControl: Info 	GameMaker-Studio 1.4/
+[2017.03.08-17.15.17:860][519]SourceControl: Info 	GameMakerPlayer/
+[2017.03.08-17.15.17:860][519]SourceControl: Info 	Heaven/
+[2017.03.08-17.15.17:860][519]SourceControl: Info 	IntelGraphicsProfiles/
+[2017.03.08-17.15.17:860][519]SourceControl: Info 	Links/
+[2017.03.08-17.15.17:860][519]SourceControl: Info 	Music/
+[2017.03.08-17.15.17:860][519]SourceControl: Info 	NTUSER.DAT
+[2017.03.08-17.15.17:860][519]SourceControl: Info 	NTUSER.DAT{4b349b30-bee4-11e6-9c7a-d8fc9311f67a}.TM.blf
+[2017.03.08-17.15.17:860][519]SourceControl: Info 	NTUSER.DAT{4b349b30-bee4-11e6-9c7a-d8fc9311f67a}.TMContainer00000000000000000001.regtrans-ms
+[2017.03.08-17.15.17:860][519]SourceControl: Info 	NTUSER.DAT{4b349b30-bee4-11e6-9c7a-d8fc9311f67a}.TMContainer00000000000000000002.regtrans-ms
+[2017.03.08-17.15.17:860][519]SourceControl: Info 	NTUSER.DAT{b1d2178d-83f5-11e6-a284-fd72836239f0}.TxR.0.regtrans-ms
+[2017.03.08-17.15.17:861][519]SourceControl: Info 	NTUSER.DAT{b1d2178d-83f5-11e6-a284-fd72836239f0}.TxR.1.regtrans-ms
+[2017.03.08-17.15.17:861][519]SourceControl: Info 	NTUSER.DAT{b1d2178d-83f5-11e6-a284-fd72836239f0}.TxR.2.regtrans-ms
+[2017.03.08-17.15.17:861][519]SourceControl: Info 	NTUSER.DAT{b1d2178d-83f5-11e6-a284-fd72836239f0}.TxR.blf
+[2017.03.08-17.15.17:861][519]SourceControl: Info 	NTUSER.DAT{b1d2178e-83f5-11e6-a284-fd72836239f0}.TM.blf
+[2017.03.08-17.15.17:861][519]SourceControl: Info 	NTUSER.DAT{b1d2178e-83f5-11e6-a284-fd72836239f0}.TMContainer00000000000000000001.regtrans-ms
+[2017.03.08-17.15.17:861][519]SourceControl: Info 	NTUSER.DAT{b1d2178e-83f5-11e6-a284-fd72836239f0}.TMContainer00000000000000000002.regtrans-ms
+[2017.03.08-17.15.17:861][519]SourceControl: Info 	OneDrive/
+[2017.03.08-17.15.17:861][519]SourceControl: Info 	Pictures/
+[2017.03.08-17.15.17:861][519]SourceControl: Info 	Saved Games/
+[2017.03.08-17.15.17:861][519]SourceControl: Info 	Searches/
+[2017.03.08-17.15.17:861][519]SourceControl: Info 	Videos/
+[2017.03.08-17.15.17:861][519]SourceControl: Info 	VirtualBox VMs/
+[2017.03.08-17.15.17:861][519]SourceControl: Info 	ntuser.dat.LOG1
+[2017.03.08-17.15.17:861][519]SourceControl: Info 	ntuser.dat.LOG2
+[2017.03.08-17.15.17:862][519]SourceControl: Info 	ntuser.ini
+[2017.03.08-17.15.17:862][519]SourceControl: Info nothing added to commit but untracked files present (use "git add" to track)
+[2017.03.08-17.15.24:351][287]SourceControl: Info fatal: C:/Program Files (x86)/Epic Games/4.13/Engine/Content/: 'C:/Program Files (x86)/Epic Games/4.13/Engine/Content/' is outside repository
+[2017.03.08-17.15.41:139][287]LogSourceControl: FGitCheckInWorker: commit successful
+[2017.03.08-17.15.41:308][287]SourceControl: Info [master 7f0dcfc] first
+[2017.03.08-17.15.41:308][287]SourceControl: Info  3 files changed, 19 insertions(+)
+[2017.03.08-17.15.41:308][287]SourceControl: Info  create mode 100644 Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Config/DefaultEngine.ini
+[2017.03.08-17.15.41:308][287]SourceControl: Info  create mode 100644 Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Config/DefaultGame.ini
+[2017.03.08-17.15.41:308][287]SourceControl: Info  create mode 100644 Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Content/StarterContent/Maps/Minimal_Default.umap
+[2017.03.08-17.15.41:314][287]SourceControl: Info Commited [master 7f0dcfc] first.
+[2017.03.08-17.17.22:891][594]SourceControl:Error: Error Failed to enable Git source control. You need to initialize the project as a Git repository first.
+[2017.03.08-17.19.03:343][806]Cmd: TRANSACTION UNDO
+[2017.03.08-17.19.03:343][806]LogEditorTransaction: Undo Clicking on Actors
+[2017.03.08-17.19.03:822][856]Cmd: TRANSACTION UNDO
+[2017.03.08-17.19.03:822][856]LogEditorTransaction: Undo Clicking on Actors
+[2017.03.08-17.19.21:431][955]SourceControl: Info Source control is disabled
+[2017.03.08-17.19.31:553][162]SourceControl:Error: Error Failed to enable Git source control. You need to initialize the project as a Git repository first.
+[2017.03.08-17.20.57:253][929]SourceControl: Info On branch master
+[2017.03.08-17.20.57:253][929]SourceControl: Info Your branch is ahead of 'origin/master' by 1 commit.
+[2017.03.08-17.20.57:253][929]SourceControl: Info   (use "git push" to publish your local commits)
+[2017.03.08-17.20.57:253][929]SourceControl: Info Untracked files:
+[2017.03.08-17.20.57:253][929]SourceControl: Info   (use "git add <file>..." to include in what will be committed)
+[2017.03.08-17.20.57:253][929]SourceControl: Info 	.VirtualBox/
+[2017.03.08-17.20.57:253][929]SourceControl: Info 	.anaconda/
+[2017.03.08-17.20.57:253][929]SourceControl: Info 	.android/
+[2017.03.08-17.20.57:253][929]SourceControl: Info 	.emulator_console_auth_token
+[2017.03.08-17.20.57:253][929]SourceControl: Info 	.gem/
+[2017.03.08-17.20.57:253][929]SourceControl: Info 	.get_iplayer/
+[2017.03.08-17.20.57:253][929]SourceControl: Info 	.gitattributes
+[2017.03.08-17.20.57:253][929]SourceControl: Info 	.gitconfig
+[2017.03.08-17.20.57:253][929]SourceControl: Info 	.gitignore
+[2017.03.08-17.20.57:253][929]SourceControl: Info 	.idlerc/
+[2017.03.08-17.20.57:253][929]SourceControl: Info 	.ipython/
+[2017.03.08-17.20.57:253][929]SourceControl: Info 	.nbi/
+[2017.03.08-17.20.57:253][929]SourceControl: Info 	.netbeans-derby/
+[2017.03.08-17.20.57:253][929]SourceControl: Info 	.oracle_jre_usage/
+[2017.03.08-17.20.57:253][929]SourceControl: Info 	.recently-used.xbel
+[2017.03.08-17.20.57:253][929]SourceControl: Info 	.ssh/
+[2017.03.08-17.20.57:253][929]SourceControl: Info 	.vagrant.d/
+[2017.03.08-17.20.57:253][929]SourceControl: Info 	3D Objects/
+[2017.03.08-17.20.57:253][929]SourceControl: Info 	Anaconda3/
+[2017.03.08-17.20.57:253][929]SourceControl: Info 	AppData/
+[2017.03.08-17.20.57:253][929]SourceControl: Info 	Contacts/
+[2017.03.08-17.20.57:253][929]SourceControl: Info 	Desktop/
+[2017.03.08-17.20.57:253][929]SourceControl: Info 	Documents/AVG Free Edn/
+[2017.03.08-17.20.57:253][929]SourceControl: Info 	Documents/Aspyr/
+[2017.03.08-17.20.57:253][929]SourceControl: Info 	Documents/Assassin's Creed Syndicate/
+[2017.03.08-17.20.57:253][929]SourceControl: Info 	Documents/Audible/
+[2017.03.08-17.20.57:253][929]SourceControl: Info 	Documents/BOOK IDEA.docx
+[2017.03.08-17.20.57:253][929]SourceControl: Info 	Documents/BioWare/
+[2017.03.08-17.20.57:253][929]SourceControl: Info 	Documents/Bioshock/
+[2017.03.08-17.20.57:253][929]SourceControl: Info 	Documents/CEP_Documentation/
+[2017.03.08-17.20.57:253][929]SourceControl: Info 	Documents/Call tracker.accdt
+[2017.03.08-17.20.57:253][929]SourceControl: Info 	Documents/CyberLink/
+[2017.03.08-17.20.57:253][929]SourceControl: Info 	Documents/Database1.accdb
+[2017.03.08-17.20.57:253][929]SourceControl: Info 	Documents/Database2.accdb
+[2017.03.08-17.20.57:253][929]SourceControl: Info 	Documents/DesktopReminder/
+[2017.03.08-17.20.57:253][929]SourceControl: Info 	Documents/Electronic Arts/
+[2017.03.08-17.20.57:253][929]SourceControl: Info 	Documents/Euro Truck Simulator 2/
+[2017.03.08-17.20.57:253][929]SourceControl: Info 	Documents/Fax/
+[2017.03.08-17.20.57:253][929]SourceControl: Info 	Documents/GTAV Mods/
+[2017.03.08-17.20.57:253][929]SourceControl: Info 	Documents/GitHub/
+[2017.03.08-17.20.57:253][929]SourceControl: Info 	Documents/IC3/
+[2017.03.08-17.20.57:253][929]SourceControl: Info 	Documents/IISExpress/
+[2017.03.08-17.20.57:253][929]SourceControl: Info 	Documents/KentuckyRouteZero/
+[2017.03.08-17.20.57:253][929]SourceControl: Info 	Documents/Lenovo/
+[2017.03.08-17.20.57:253][929]SourceControl: Info 	Documents/LucasArts/
+[2017.03.08-17.20.57:253][929]SourceControl: Info 	Documents/Mount&Blade Savegames/
+[2017.03.08-17.20.57:253][929]SourceControl: Info 	Documents/Music - Shortcut.lnk
+[2017.03.08-17.20.57:253][929]SourceControl: Info 	Documents/My Games/
+[2017.03.08-17.20.57:253][929]SourceControl: Info 	Documents/My Kindle Content/
+[2017.03.08-17.20.57:253][929]SourceControl: Info 	Documents/My Leagues/
+[2017.03.08-17.20.57:253][929]SourceControl: Info 	Documents/My Library/
+[2017.03.08-17.20.57:253][929]SourceControl: Info 	Documents/My Recordings/
+[2017.03.08-17.20.57:253][929]SourceControl: Info 	Documents/My Shapes/
+[2017.03.08-17.20.57:253][929]SourceControl: Info 	Documents/My Web Sites/
+[2017.03.08-17.20.57:253][929]SourceControl: Info 	Documents/My Widgets/
+[2017.03.08-17.20.57:253][929]SourceControl: Info 	Documents/Naturalsoft/
+[2017.03.08-17.20.57:253][929]SourceControl: Info 	Documents/NetBeansProjects/
+[2017.03.08-17.20.57:253][929]SourceControl: Info 	Documents/OpenOffice.org 3.4.1 (en-US) Installation Files/
+[2017.03.08-17.20.57:253][929]SourceControl: Info 	Documents/Paradox Interactive/
+[2017.03.08-17.20.57:253][929]SourceControl: Info 	Documents/Rainmeter/
+[2017.03.08-17.20.57:253][929]SourceControl: Info 	Documents/Rockstar Games/
+[2017.03.08-17.20.57:253][929]SourceControl: Info 	Documents/SQL Server Management Studio/
+[2017.03.08-17.20.57:253][929]SourceControl: Info 	Documents/Scanned Documents/
+[2017.03.08-17.20.57:253][929]SourceControl: Info 	Documents/TLJ/
+[2017.03.08-17.20.57:253][929]SourceControl: Info 	Documents/Table.docx
+[2017.03.08-17.20.57:253][929]SourceControl: Info 	Documents/The Witcher 3/
+[2017.03.08-17.20.57:253][929]SourceControl: Info 	Documents/The Witcher/
+[2017.03.08-17.20.57:253][929]SourceControl: Info 	Documents/Unreal Projects/MyProject1/
+[2017.03.08-17.20.57:253][929]SourceControl: Info 	Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Binaries/
+[2017.03.08-17.20.57:253][929]SourceControl: Info 	Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Building_Escape.sln
+[2017.03.08-17.20.57:253][929]SourceControl: Info 	Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Building_Escape.uproject
+[2017.03.08-17.20.57:253][929]SourceControl: Info 	Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Config/DefaultEditor.ini
+[2017.03.08-17.20.57:253][929]SourceControl: Info 	Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Content/StarterContent/Architecture/
+[2017.03.08-17.20.57:253][929]SourceControl: Info 	Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Content/StarterContent/Audio/
+[2017.03.08-17.20.57:253][929]SourceControl: Info 	Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Content/StarterContent/Blueprints/
+[2017.03.08-17.20.57:253][929]SourceControl: Info 	Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Content/StarterContent/HDRI/
+[2017.03.08-17.20.57:253][929]SourceControl: Info 	Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Content/StarterContent/Maps/Advanced_Lighting.umap
+[2017.03.08-17.20.57:253][929]SourceControl: Info 	Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Content/StarterContent/Maps/StarterMap.umap
+[2017.03.08-17.20.57:253][929]SourceControl: Info 	Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Content/StarterContent/Materials/
+[2017.03.08-17.20.57:253][929]SourceControl: Info 	Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Content/StarterContent/Particles/
+[2017.03.08-17.20.57:253][929]SourceControl: Info 	Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Content/StarterContent/Props/
+[2017.03.08-17.20.57:253][929]SourceControl: Info 	Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Content/StarterContent/Shapes/
+[2017.03.08-17.20.57:253][929]SourceControl: Info 	Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Content/StarterContent/Textures/
+[2017.03.08-17.20.57:253][929]SourceControl: Info 	Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Intermediate/
+[2017.03.08-17.20.57:253][929]SourceControl: Info 	Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Saved/
+[2017.03.08-17.20.57:254][929]SourceControl: Info 	Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Source/
+[2017.03.08-17.20.57:254][929]SourceControl: Info 	Documents/Visual Studio 2010/
+[2017.03.08-17.20.57:254][929]SourceControl: Info 	Documents/Visual Studio 2015/
+[2017.03.08-17.20.57:254][929]SourceControl: Info 	Documents/aspneforum_MSsql.sql
+[2017.03.08-17.20.57:254][929]SourceControl: Info 	Documents/certificate.crt
+[2017.03.08-17.20.57:254][929]SourceControl: Info 	Documents/desktop.ini
+[2017.03.08-17.20.57:254][929]SourceControl: Info 	Documents/dumps/
+[2017.03.08-17.20.57:254][929]SourceControl: Info 	Documents/erot/
+[2017.03.08-17.20.57:254][929]SourceControl: Info 	Documents/forum.sql
+[2017.03.08-17.20.57:254][929]SourceControl: Info 	Documents/maya/
+[2017.03.08-17.20.57:254][929]SourceControl: Info 	Documents/orcsoft/
+[2017.03.08-17.20.57:254][929]SourceControl: Info 	Downloads/
+[2017.03.08-17.20.57:254][929]SourceControl: Info 	Favorites/
+[2017.03.08-17.20.57:254][929]SourceControl: Info 	GameMaker-Studio 1.4/
+[2017.03.08-17.20.57:254][929]SourceControl: Info 	GameMakerPlayer/
+[2017.03.08-17.20.57:254][929]SourceControl: Info 	Heaven/
+[2017.03.08-17.20.57:254][929]SourceControl: Info 	IntelGraphicsProfiles/
+[2017.03.08-17.20.57:254][929]SourceControl: Info 	Links/
+[2017.03.08-17.20.57:254][929]SourceControl: Info 	Music/
+[2017.03.08-17.20.57:254][929]SourceControl: Info 	NTUSER.DAT
+[2017.03.08-17.20.57:254][929]SourceControl: Info 	NTUSER.DAT{4b349b30-bee4-11e6-9c7a-d8fc9311f67a}.TM.blf
+[2017.03.08-17.20.57:254][929]SourceControl: Info 	NTUSER.DAT{4b349b30-bee4-11e6-9c7a-d8fc9311f67a}.TMContainer00000000000000000001.regtrans-ms
+[2017.03.08-17.20.57:254][929]SourceControl: Info 	NTUSER.DAT{4b349b30-bee4-11e6-9c7a-d8fc9311f67a}.TMContainer00000000000000000002.regtrans-ms
+[2017.03.08-17.20.57:254][929]SourceControl: Info 	NTUSER.DAT{b1d2178d-83f5-11e6-a284-fd72836239f0}.TxR.0.regtrans-ms
+[2017.03.08-17.20.57:254][929]SourceControl: Info 	NTUSER.DAT{b1d2178d-83f5-11e6-a284-fd72836239f0}.TxR.1.regtrans-ms
+[2017.03.08-17.20.57:254][929]SourceControl: Info 	NTUSER.DAT{b1d2178d-83f5-11e6-a284-fd72836239f0}.TxR.2.regtrans-ms
+[2017.03.08-17.20.57:254][929]SourceControl: Info 	NTUSER.DAT{b1d2178d-83f5-11e6-a284-fd72836239f0}.TxR.blf
+[2017.03.08-17.20.57:254][929]SourceControl: Info 	NTUSER.DAT{b1d2178e-83f5-11e6-a284-fd72836239f0}.TM.blf
+[2017.03.08-17.20.57:254][929]SourceControl: Info 	NTUSER.DAT{b1d2178e-83f5-11e6-a284-fd72836239f0}.TMContainer00000000000000000001.regtrans-ms
+[2017.03.08-17.20.57:254][929]SourceControl: Info 	NTUSER.DAT{b1d2178e-83f5-11e6-a284-fd72836239f0}.TMContainer00000000000000000002.regtrans-ms
+[2017.03.08-17.20.57:254][929]SourceControl: Info 	OneDrive/
+[2017.03.08-17.20.57:254][929]SourceControl: Info 	Pictures/
+[2017.03.08-17.20.57:254][929]SourceControl: Info 	Saved Games/
+[2017.03.08-17.20.57:254][929]SourceControl: Info 	Searches/
+[2017.03.08-17.20.57:254][929]SourceControl: Info 	Videos/
+[2017.03.08-17.20.57:254][929]SourceControl: Info 	VirtualBox VMs/
+[2017.03.08-17.20.57:254][929]SourceControl: Info 	ntuser.dat.LOG1
+[2017.03.08-17.20.57:254][929]SourceControl: Info 	ntuser.dat.LOG2
+[2017.03.08-17.20.57:254][929]SourceControl: Info 	ntuser.ini
+[2017.03.08-17.20.57:254][929]SourceControl: Info nothing added to commit but untracked files present (use "git add" to track)
+[2017.03.08-17.21.01:432][426]SourceControl: Info fatal: C:/Program Files (x86)/Epic Games/4.13/Engine/Content/: 'C:/Program Files (x86)/Epic Games/4.13/Engine/Content/' is outside repository
+[2017.03.08-17.21.01:564][426]EditorErrors:Warning: Warning No assets to check in!
+[2017.03.08-17.21.57:796][279]SourceControl: Info fatal: C:/Program Files (x86)/Epic Games/4.13/Engine/Content/: 'C:/Program Files (x86)/Epic Games/4.13/Engine/Content/' is outside repository
+[2017.03.08-17.21.57:923][279]EditorErrors:Warning: Warning No assets to check in!
+[2017.03.08-17.24.47:703][711]SourceControl: Info fatal: C:/Program Files (x86)/Epic Games/4.13/Engine/Content/: 'C:/Program Files (x86)/Epic Games/4.13/Engine/Content/' is outside repository
+[2017.03.08-17.24.47:836][711]EditorErrors:Warning: Warning No assets to check in!
+[2017.03.08-19.51.28:842][726]SourceControl: Info fatal: C:/Program Files (x86)/Epic Games/4.13/Engine/Content/: 'C:/Program Files (x86)/Epic Games/4.13/Engine/Content/' is outside repository
+[2017.03.08-19.51.30:271][726]EditorErrors:Warning: Warning No assets to check in!
+[2017.03.08-19.51.41:231][890]LogTexture:Display: Building textures: WhiteSquareTexture (AutoDXT)
+[2017.03.08-19.51.41:377][890]LogMaterial: Missing cached shader map for material LayerVisMaterial, compiling. 
+[2017.03.08-19.51.41:847][890]LogMaterial: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2017.03.08-19.51.41:931][890]LogMaterial: Missing cached shader map for material SelectBrushMaterial, compiling. 
+[2017.03.08-19.51.42:126][890]LogMaterial: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2017.03.08-19.51.42:418][890]LogMaterial: Missing cached shader map for material LandscapeLayerUsageMaterial, compiling. 
+[2017.03.08-19.51.42:755][890]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2017.03.08-19.51.42:810][890]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2017.03.08-19.51.42:826][890]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2017.03.08-19.51.42:863][890]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2017.03.08-19.51.42:948][890]LogMaterial: Missing cached shader map for material AlphaBrushMaterial, compiling. 
+[2017.03.08-19.51.43:001][890]LogMaterial: Missing cached shader map for material CircleBrushMaterial, compiling. 
+[2017.03.08-19.51.43:031][890]LogMaterial: Missing cached shader map for material MaskBrushMaterial, compiling. 
+[2017.03.08-19.51.43:154][890]LogTexture:Display: Building textures: Texture2D_2 (G8)
+[2017.03.08-19.51.43:170][890]LogTexture:Display: Building textures: LandscapeThumbnailWeightmap (BGRA8)
+[2017.03.08-19.51.43:200][890]LogTexture:Display: Building textures: LandscapeThumbnailHeightmap (BGRA8)
+[2017.03.08-19.51.50:082][361]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Chair)
+[2017.03.08-19.52.24:851][ 11]SourceControl: Info fatal: C:/Program Files (x86)/Epic Games/4.13/Engine/Content/: 'C:/Program Files (x86)/Epic Games/4.13/Engine/Content/' is outside repository
+[2017.03.08-19.52.30:182][ 11]LogSavePackage: Save=621.20ms
+[2017.03.08-19.52.30:182][ 11]LogSavePackage: Moving '../../../../../../Users/Josh/Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Saved/Minimal_Default6D2F2C704D2552BAD4D7B09E6F328370.tmp' to '../../../../../../Users/Josh/Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Content/StarterContent/Maps/Minimal_Default.umap'
+[2017.03.08-19.52.30:198][ 11]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Josh/Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Content/StarterContent/Maps/Minimal_Default.umap
+[2017.03.08-19.52.30:283][ 11]LogFileHelpers: Saving map 'Minimal_Default' took 1.307
+[2017.03.08-23.14.24:061][982]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.03.09-19.14.34:304][594]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.03.10-09.33.11:014][ 79]LogHttp:Warning: 0000019F35AFF100: request failed, libcurl error: 7 (Couldn't connect to server)
+[2017.03.10-09.33.11:035][ 79]LogHttp:Warning: 0000019F35AFF100: libcurl info message cache 0 (Closing connection 488)
+[2017.03.10-09.33.11:035][ 79]LogHttp:Warning: 0000019F35AFF100: libcurl info message cache 1 (schannel: shutting down SSL/TLS connection with datarouter.ol.epicgames.com port 443)
+[2017.03.10-09.33.11:035][ 79]LogHttp:Warning: 0000019F35AFF100: libcurl info message cache 2 (schannel: clear security context handle)
+[2017.03.10-09.33.11:035][ 79]LogHttp:Warning: 0000019F35AFF100: libcurl info message cache 3 (schannel: decremented credential handle refcount = 0)
+[2017.03.10-09.33.11:035][ 79]LogHttp:Warning: 0000019F35AFF100: libcurl info message cache 4 (  Trying 52.44.156.214...)
+[2017.03.10-09.33.11:044][ 79]LogHttp:Warning: 0000019F35AFF100: libcurl info message cache 5 (connect to 52.44.156.214 port 443 failed: Timed out)
+[2017.03.10-09.33.11:044][ 79]LogHttp:Warning: 0000019F35AFF100: libcurl info message cache 6 (  Trying 34.192.111.22...)
+[2017.03.10-09.33.11:044][ 79]LogHttp:Warning: 0000019F35AFF100: libcurl info message cache 7 (connect to 34.192.111.22 port 443 failed: Timed out)
+[2017.03.10-09.33.11:044][ 79]LogHttp:Warning: 0000019F35AFF100: libcurl info message cache 8 (Failed to connect to datarouter.ol.epicgames.com port 443: Timed out)
+[2017.03.10-09.33.11:044][ 79]LogHttp:Warning: 0000019F35AFF100: libcurl info message cache 9 (Closing connection 489)
+[2017.03.10-15.10.51:263][491]LogRenderer: Reallocating scene render targets to support 816x376 (Frame:46743).
+[2017.03.10-15.10.51:692][491]LogRenderer: Reallocating scene render targets to support 816x452 (Frame:46744).
+[2017.03.10-15.10.52:138][491]LogRenderer: Reallocating scene render targets to support 816x564 (Frame:46745).
+[2017.03.10-15.11.42:517][118]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.03.10-15.11.42:574][118]LightingResults: New page: Lighting Build
+[2017.03.10-15.11.42:576][118]LoadErrors: New page: Loading map: Template_Default.umap
+[2017.03.10-15.11.42:732][118]MapCheck: New page: Map Check
+[2017.03.10-15.11.42:732][118]LightingResults: New page: Lighting Build
+[2017.03.10-15.11.45:219][118]LogAIModule: Creating AISystem for world Untitled_1
+[2017.03.10-15.11.45:278][118]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.03.10-15.11.45:420][118]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.03.10-15.11.50:785][118]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 5,346.519ms to complete.
+[2017.03.10-15.11.50:785][118]LogFileHelpers: Loading map 'Template_Default' took 8.290
+[2017.03.10-15.11.57:151][777]SourceControl:Error: Error fatal: Invalid path '/Temp': No such file or directory
+[2017.03.10-15.12.05:126][720]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2017.03.10-15.12.09:302][145]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.03.10-15.12.09:916][218]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.03.10-15.12.10:649][305]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.03.10-15.12.11:273][376]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.03.10-15.12.11:794][432]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.03.10-15.12.12:334][496]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.03.10-15.12.13:097][587]LogEditorViewport: Clicking on Actor (LMB): Character (Character)
+[2017.03.10-15.12.37:000][310]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.03.10-15.12.37:918][416]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.03.10-15.12.38:414][475]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.03.10-15.12.38:910][534]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.03.10-15.12.42:696][982]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.03.10-15.12.43:660][ 95]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.03.10-15.12.45:823][350]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.03.10-15.12.46:398][419]LogEditorViewport: Clicking on Actor (LMB): Character (Character)
+[2017.03.10-15.12.46:980][483]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.03.10-15.13.24:768][847]Cmd: DELETE
+[2017.03.10-15.13.24:768][847]Cmd: ACTOR DELETE
+[2017.03.10-15.13.25:133][847]LogEditorActor: Deleted Actor: Character
+[2017.03.10-15.13.25:220][847]LogEditorActor: Deleted 1 Actors (0.094 secs)
+[2017.03.10-15.13.44:202][977]LogTexture:Display: Building textures: Texture2D_3 (G8)
+[2017.03.10-15.13.46:671][189]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2017.03.10-15.13.56:837][237]LogActorFactory: Actor Factory created SM_Chair
+[2017.03.10-15.13.57:529][319]LogActorFactory: Actor Factory created SM_Chair
+[2017.03.10-15.14.22:488][234]Cmd: TRANSACTION UNDO
+[2017.03.10-15.14.22:488][234]LogEditorTransaction: Undo Move Actors
+[2017.03.10-15.14.39:238][191]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2017.03.10-15.14.40:824][367]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.03.10-15.14.43:305][655]Cmd: TRANSACTION UNDO
+[2017.03.10-15.14.43:305][655]LogEditorTransaction: Undo Move Actors
+[2017.03.10-15.14.44:340][767]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.03.10-15.14.49:275][306]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair)
+[2017.03.10-15.15.05:158][187]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.03.10-15.15.22:885][164]LogTexture:Display: Building textures: T_Rock_Basalt_D (AutoDXT)
+[2017.03.10-15.15.28:670][164]LogTexture:Display: Building textures: T_RockMesh_M (DXT1)
+[2017.03.10-15.15.30:990][164]LogTexture:Display: Building textures: T_RockMesh_N (BC5)
+[2017.03.10-15.15.31:673][164]LogTexture:Display: Building textures: T_Detail_Rocky_N (BC5)
+[2017.03.10-15.15.32:255][164]LogActorFactory: Actor Factory created SM_Rock
+[2017.03.10-15.15.32:261][164]LogActorFactory: Actor Factory created SM_Rock
+[2017.03.10-15.15.32:281][164]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.03.10-15.15.32:316][164]LogActorFactory: Actor Factory created SM_Rock
+[2017.03.10-15.15.32:323][164]LogActorFactory: Actor Factory created SM_Rock
+[2017.03.10-15.15.32:343][164]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock)
+[2017.03.10-15.15.40:063][ 64]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock2)
+[2017.03.10-15.15.43:888][514]Cmd: DELETE
+[2017.03.10-15.15.43:958][514]Cmd: ACTOR DELETE
+[2017.03.10-15.15.43:958][514]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.03.10-15.15.44:005][514]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2017.03.10-15.15.45:111][647]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock)
+[2017.03.10-15.16.04:573][750]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair)
+[2017.03.10-15.16.05:470][850]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock)
+[2017.03.10-15.16.06:389][953]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair)
+[2017.03.10-15.16.07:363][ 63]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock)
+[2017.03.10-15.16.37:820][126]Running C:/Program Files (x86)/Epic Games/4.13/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="C:/Users/Josh/Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Building_Escape.uproject" -game -rocket -progress
+[2017.03.10-15.16.40:119][126]Discovering modules, targets and source code for project...
+[2017.03.10-15.17.03:884][126]LogVSAccessor:Warning: Couldn't access Visual Studio
+[2017.03.10-15.17.03:956][126]Recompiling Building_Escape...
+[2017.03.10-15.17.03:957][126]Launching UnrealBuildTool... [C:/Program Files (x86)/Epic Games/4.13/Engine/Binaries/DotNET/UnrealBuildTool.exe Building_Escape -ModuleWithSuffix Building_Escape 7368 Win64 Development -editorrecompile -canskiplink "C:/Users/Josh/Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Building_Escape.uproject"  -2015]
+[2017.03.10-15.18.43:743][126]CompilerResultsLog: New page: Compilation - 10 Mar 2017 15:18:43
+[2017.03.10-15.18.43:759][126]CompilerResultsLog: Info Performing full C++ include scan (hot reloading a new target)
+[2017.03.10-15.18.43:759][126]CompilerResultsLog: Info Creating makefile for hot reloading Building_Escape (no existing makefile)
+[2017.03.10-15.18.43:760][126]CompilerResultsLog: Info Compiling game modules for hot reload
+[2017.03.10-15.18.43:760][126]CompilerResultsLog: Info Parsing headers for Building_EscapeEditor
+[2017.03.10-15.18.43:760][126]CompilerResultsLog: Info   Running UnrealHeaderTool "C:\Users\Josh\Documents\Unreal Projects\repos\01_building_escape\Building_Escape\Building_Escape.uproject" "C:\Users\Josh\Documents\Unreal Projects\repos\01_building_escape\Building_Escape\Intermediate\Build\Win64\Building_EscapeEditor\Development\Building_EscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2017.03.10-15.18.43:760][126]CompilerResultsLog: Info Reflection code generated for Building_EscapeEditor in 5.5087855 seconds
+[2017.03.10-15.18.43:760][126]CompilerResultsLog: Info Performing 3 actions (4 in parallel)
+[2017.03.10-15.18.43:760][126]CompilerResultsLog: Info Building_Escape.generated.cpp
+[2017.03.10-15.18.43:760][126]CompilerResultsLog: Info PositionReport.cpp
+[2017.03.10-15.18.43:760][126]CompilerResultsLog: Info [3/3] Link UE4Editor-Building_Escape-7368.dll
+[2017.03.10-15.18.43:760][126]CompilerResultsLog: Info    Creating library C:\Users\Josh\Documents\Unreal Projects\repos\01_building_escape\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Building_Escape-7368.lib and object C:\Users\Josh\Documents\Unreal Projects\repos\01_building_escape\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Building_Escape-7368.exp
+[2017.03.10-15.18.43:760][126]CompilerResultsLog: Info Total build time: 97.19 seconds
+[2017.03.10-15.18.43:762][126]LogMainFrame: MainFrame: Module compiling took 99.877 seconds
+[2017.03.10-15.18.44:006][126]LogClass: Could not find existing class PositionReport in package /Script/Building_Escape for HotReload, assuming new class
+[2017.03.10-15.18.44:061][126]LogContentBrowser: Native class hierarchy updated for 'Building_Escape' in 0.0079 seconds. Added 2 classes and 2 folders.
+[2017.03.10-15.18.44:062][126]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2017.03.10-15.18.44:774][126]LogContentBrowser: Native class hierarchy populated in 0.1518 seconds. Added 2145 classes and 421 folders.
+[2017.03.10-15.18.44:850][126]Display: HotReload took 101.0s.
+[2017.03.10-15.18.44:851][126]Warning: HotReload operation took 101.0s.
+[2017.03.10-15.18.45:502][126]LogHotReload: New module detected: UE4Editor-Building_Escape-7368.dll
+[2017.03.10-15.18.46:816][127]LogHotReload: Starting Hot-Reload from IDE
+[2017.03.10-15.18.46:863][127]LogContentBrowser: Native class hierarchy updated for 'Building_Escape' in 0.0020 seconds. Added 2 classes and 2 folders.
+[2017.03.10-15.18.46:865][127]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2017.03.10-15.18.46:875][127]LogContentBrowser: Native class hierarchy populated in 0.0099 seconds. Added 2145 classes and 421 folders.
+[2017.03.10-15.18.46:898][127]Display: HotReload took  0.1s.
+[2017.03.10-15.21.33:474][283]LogVSAccessor:Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2017.03.10-15.22.06:091][284]LogVSAccessor:Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2017.03.10-15.22.06:125][285]LogVSAccessor:Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2017.03.10-15.22.07:077][286]LogVSAccessor:Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2017.03.10-15.22.07:546][287]LogVSAccessor:Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2017.03.10-15.22.08:614][288]LogVSAccessor:Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2017.03.10-15.22.16:819][289]LogVSAccessor:Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2017.03.10-15.22.23:877][290]LogVSAccessor:Warning: Couldn't goto line number '0' in 'C:/Users/Josh/Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Source/Building_Escape/PositionReport.h'
+[2017.03.10-15.22.26:538][290]LogVSAccessor:Warning: Couldn't open file 'C:/Users/Josh/Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Source/Building_Escape/PositionReport.cpp'.
+[2017.03.10-15.24.07:455][586]LogSavePackage: Save=44.75ms
+[2017.03.10-15.24.07:455][586]LogSavePackage: Moving '../../../../../../Users/Josh/Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Saved/Untitled_1_Auto116614E0648176CB4960D7489556A8D71.tmp' to '../../../../../../Users/Josh/Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Saved/Autosaves/Temp/Untitled_1_Auto1.umap'
+[2017.03.10-15.24.07:458][586]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Josh/Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Saved/Autosaves/Temp/Untitled_1_Auto1.umap
+[2017.03.10-15.24.07:476][586]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.135
+[2017.03.10-15.24.07:476][586]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.135
+[2017.03.10-15.26.13:013][791]SourceControl:Error: Error fatal: Invalid path '/Script': No such file or directory
+[2017.03.10-15.26.43:101][944]SourceControl:Error: Error fatal: Invalid path '/Temp': No such file or directory
+[2017.03.10-15.26.43:148][944]LogContentBrowser:Verbose: The majority of assets in the view are of type: World
+[2017.03.10-15.28.03:642][944]LogSavePackage: Save=1572.33ms
+[2017.03.10-15.28.03:642][944]LogSavePackage: Moving '../../../../../../Users/Josh/Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Saved/first0411BAED4E46F3615FCB2F817436D197.tmp' to '../../../../../../Users/Josh/Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Content/StarterContent/Maps/first.umap'
+[2017.03.10-15.28.03:645][944]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Josh/Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Content/StarterContent/Maps/first.umap
+[2017.03.10-15.28.04:362][944]LogFileHelpers: Saving map 'first' took 66.616
+[2017.03.10-15.28.04:903][946]SourceControl:Error: Error fatal: Invalid path '/Temp': No such file or directory
+[2017.03.10-15.28.04:907][947]LogHttp:Warning: 0000019F6146A500: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.03.10-15.28.04:907][947]LogHttp:Warning: 0000019F6146A500: libcurl info message cache 3 (Connection 559 seems to be dead!)
+[2017.03.10-15.28.04:907][947]LogHttp:Warning: 0000019F6146A500: libcurl info message cache 4 (Closing connection 559)
+[2017.03.10-15.28.04:907][947]LogHttp:Warning: 0000019F6146A500: libcurl info message cache 5 (schannel: shutting down SSL/TLS connection with datarouter.ol.epicgames.com port 443)
+[2017.03.10-15.28.04:907][947]LogHttp:Warning: 0000019F6146A500: libcurl info message cache 6 (schannel: clear security context handle)
+[2017.03.10-15.28.04:907][947]LogHttp:Warning: 0000019F6146A500: libcurl info message cache 7 (schannel: decremented credential handle refcount = 0)
+[2017.03.10-15.28.04:907][947]LogHttp:Warning: 0000019F6146A500: libcurl info message cache 8 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.03.10-15.28.04:907][947]LogHttp:Warning: 0000019F6146A500: libcurl info message cache 9 (Closing connection 560)
+[2017.03.10-15.28.58:127][138]SourceControl: Info fatal: C:/Program Files (x86)/Epic Games/4.13/Engine/Content/: 'C:/Program Files (x86)/Epic Games/4.13/Engine/Content/' is outside repository
+[2017.03.10-15.29.41:559][138]LogSourceControl: FGitCheckInWorker: commit successful
+[2017.03.10-15.29.42:579][138]SourceControl: Info [master 52e7524] first level started
+[2017.03.10-15.29.42:579][138]SourceControl: Info  21 files changed, 0 insertions(+), 0 deletions(-)
+[2017.03.10-15.29.42:579][138]SourceControl: Info  create mode 100644 Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Content/StarterContent/Maps/Advanced_Lighting.umap
+[2017.03.10-15.29.42:579][138]SourceControl: Info  create mode 100644 Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Content/StarterContent/Maps/StarterMap.umap
+[2017.03.10-15.29.42:579][138]SourceControl: Info  create mode 100644 Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Content/StarterContent/Props/MaterialSphere.uasset
+[2017.03.10-15.29.42:579][138]SourceControl: Info  create mode 100644 Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Content/StarterContent/Props/SM_Bush.uasset
+[2017.03.10-15.29.42:579][138]SourceControl: Info  create mode 100644 Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Content/StarterContent/Props/SM_Chair.uasset
+[2017.03.10-15.29.42:579][138]SourceControl: Info  create mode 100644 Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Content/StarterContent/Props/SM_CornerFrame.uasset
+[2017.03.10-15.29.42:579][138]SourceControl: Info  create mode 100644 Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Content/StarterContent/Props/SM_Couch.uasset
+[2017.03.10-15.29.42:579][138]SourceControl: Info  create mode 100644 Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Content/StarterContent/Props/SM_Door.uasset
+[2017.03.10-15.29.42:579][138]SourceControl: Info  create mode 100644 Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Content/StarterContent/Props/SM_DoorFrame.uasset
+[2017.03.10-15.29.42:579][138]SourceControl: Info  create mode 100644 Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Content/StarterContent/Props/SM_GlassWindow.uasset
+[2017.03.10-15.29.42:579][138]SourceControl: Info  create mode 100644 Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset
+[2017.03.10-15.29.42:579][138]SourceControl: Info  create mode 100644 Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Content/StarterContent/Props/SM_Lamp_Wall.uasset
+[2017.03.10-15.29.42:579][138]SourceControl: Info  create mode 100644 Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset
+[2017.03.10-15.29.42:579][138]SourceControl: Info  create mode 100644 Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Content/StarterContent/Props/SM_PillarFrame.uasset
+[2017.03.10-15.29.42:579][138]SourceControl: Info  create mode 100644 Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Content/StarterContent/Props/SM_PillarFrame300.uasset
+[2017.03.10-15.29.42:579][138]SourceControl: Info  create mode 100644 Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Content/StarterContent/Props/SM_Rock.uasset
+[2017.03.10-15.29.42:579][138]SourceControl: Info  create mode 100644 Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Content/StarterContent/Props/SM_Shelf.uasset
+[2017.03.10-15.29.42:579][138]SourceControl: Info  create mode 100644 Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Content/StarterContent/Props/SM_Stairs.uasset
+[2017.03.10-15.29.42:579][138]SourceControl: Info  create mode 100644 Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Content/StarterContent/Props/SM_Statue.uasset
+[2017.03.10-15.29.42:579][138]SourceControl: Info  create mode 100644 Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Content/StarterContent/Props/SM_TableRound.uasset
+[2017.03.10-15.29.42:579][138]SourceControl: Info  create mode 100644 Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Content/StarterContent/Props/SM_WindowFrame.uasset
+[2017.03.10-15.29.42:586][138]SourceControl: Info Commited [master 52e7524] first level started.
+[2017.03.10-15.30.08:675][189]SourceControl: Info On branch master
+[2017.03.10-15.30.08:675][189]SourceControl: Info Your branch is ahead of 'origin/master' by 2 commits.
+[2017.03.10-15.30.08:675][189]SourceControl: Info   (use "git push" to publish your local commits)
+[2017.03.10-15.30.08:675][189]SourceControl: Info Changes to be committed:
+[2017.03.10-15.30.08:675][189]SourceControl: Info   (use "git reset HEAD <file>..." to unstage)
+[2017.03.10-15.30.08:675][189]SourceControl: Info 	new file:   Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Content/StarterContent/Maps/first.umap
+[2017.03.10-15.30.08:675][189]SourceControl: Info 	new file:   Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Source/Building_Escape/PositionReport.cpp
+[2017.03.10-15.30.08:675][189]SourceControl: Info 	new file:   Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Source/Building_Escape/PositionReport.h
+[2017.03.10-15.30.08:675][189]SourceControl: Info Changes not staged for commit:
+[2017.03.10-15.30.08:675][189]SourceControl: Info   (use "git add <file>..." to update what will be committed)
+[2017.03.10-15.30.08:675][189]SourceControl: Info   (use "git checkout -- <file>..." to discard changes in working directory)
+[2017.03.10-15.30.08:675][189]SourceControl: Info 	modified:   Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Config/DefaultGame.ini
+[2017.03.10-15.30.08:675][189]SourceControl: Info 	modified:   Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Content/StarterContent/Maps/Minimal_Default.umap
+[2017.03.10-15.30.08:675][189]SourceControl: Info Untracked files:
+[2017.03.10-15.30.08:675][189]SourceControl: Info   (use "git add <file>..." to include in what will be committed)
+[2017.03.10-15.30.08:675][189]SourceControl: Info 	.VirtualBox/
+[2017.03.10-15.30.08:675][189]SourceControl: Info 	.anaconda/
+[2017.03.10-15.30.08:675][189]SourceControl: Info 	.android/
+[2017.03.10-15.30.08:675][189]SourceControl: Info 	.emulator_console_auth_token
+[2017.03.10-15.30.08:675][189]SourceControl: Info 	.gem/
+[2017.03.10-15.30.08:675][189]SourceControl: Info 	.get_iplayer/
+[2017.03.10-15.30.08:675][189]SourceControl: Info 	.gitattributes
+[2017.03.10-15.30.08:675][189]SourceControl: Info 	.gitconfig
+[2017.03.10-15.30.08:675][189]SourceControl: Info 	.gitignore
+[2017.03.10-15.30.08:675][189]SourceControl: Info 	.idlerc/
+[2017.03.10-15.30.08:675][189]SourceControl: Info 	.ipython/
+[2017.03.10-15.30.08:675][189]SourceControl: Info 	.nbi/
+[2017.03.10-15.30.08:675][189]SourceControl: Info 	.netbeans-derby/
+[2017.03.10-15.30.08:675][189]SourceControl: Info 	.oracle_jre_usage/
+[2017.03.10-15.30.08:675][189]SourceControl: Info 	.recently-used.xbel
+[2017.03.10-15.30.08:675][189]SourceControl: Info 	.ssh/
+[2017.03.10-15.30.08:766][189]SourceControl: Info 	.vagrant.d/
+[2017.03.10-15.30.08:766][189]SourceControl: Info 	3D Objects/
+[2017.03.10-15.30.08:766][189]SourceControl: Info 	Anaconda3/
+[2017.03.10-15.30.08:766][189]SourceControl: Info 	AppData/
+[2017.03.10-15.30.08:766][189]SourceControl: Info 	Contacts/
+[2017.03.10-15.30.08:766][189]SourceControl: Info 	Desktop/
+[2017.03.10-15.30.08:766][189]SourceControl: Info 	Documents/AVG Free Edn/
+[2017.03.10-15.30.08:766][189]SourceControl: Info 	Documents/Aspyr/
+[2017.03.10-15.30.08:766][189]SourceControl: Info 	Documents/Assassin's Creed Syndicate/
+[2017.03.10-15.30.08:766][189]SourceControl: Info 	Documents/Audible/
+[2017.03.10-15.30.08:766][189]SourceControl: Info 	Documents/BOOK IDEA.docx
+[2017.03.10-15.30.08:766][189]SourceControl: Info 	Documents/BioWare/
+[2017.03.10-15.30.08:766][189]SourceControl: Info 	Documents/Bioshock/
+[2017.03.10-15.30.08:766][189]SourceControl: Info 	Documents/CEP_Documentation/
+[2017.03.10-15.30.08:766][189]SourceControl: Info 	Documents/Call tracker.accdt
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	Documents/CyberLink/
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	Documents/Database1.accdb
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	Documents/Database2.accdb
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	Documents/DesktopReminder/
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	Documents/Electronic Arts/
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	Documents/Euro Truck Simulator 2/
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	Documents/Fax/
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	Documents/GTAV Mods/
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	Documents/GitHub/
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	Documents/IC3/
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	Documents/IISExpress/
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	Documents/KentuckyRouteZero/
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	Documents/Lenovo/
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	Documents/LucasArts/
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	Documents/Mount&Blade Savegames/
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	Documents/Music - Shortcut.lnk
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	Documents/My Games/
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	Documents/My Kindle Content/
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	Documents/My Leagues/
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	Documents/My Library/
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	Documents/My Recordings/
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	Documents/My Shapes/
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	Documents/My Web Sites/
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	Documents/My Widgets/
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	Documents/Naturalsoft/
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	Documents/NetBeansProjects/
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	Documents/OpenOffice.org 3.4.1 (en-US) Installation Files/
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	Documents/Paradox Interactive/
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	Documents/Rainmeter/
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	Documents/Rockstar Games/
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	Documents/SQL Server Management Studio/
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	Documents/Scanned Documents/
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	Documents/TLJ/
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	Documents/Table.docx
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	Documents/The Witcher 3/
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	Documents/The Witcher/
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	Documents/Unreal Projects/MyProject1/
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Binaries/
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Building_Escape.sln
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Building_Escape.uproject
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Config/DefaultEditor.ini
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Content/StarterContent/Architecture/
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Content/StarterContent/Audio/
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Content/StarterContent/Blueprints/
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Content/StarterContent/HDRI/
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Content/StarterContent/Materials/
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Content/StarterContent/Particles/
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Content/StarterContent/Props/Materials/
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Content/StarterContent/Shapes/
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Content/StarterContent/Textures/
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Intermediate/
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Saved/
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Source/Building_Escape.Target.cs
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Source/Building_Escape/Building_Escape.Build.cs
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Source/Building_Escape/Building_Escape.cpp
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Source/Building_Escape/Building_Escape.h
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Source/Building_Escape/Building_EscapeGameMode.cpp
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Source/Building_Escape/Building_EscapeGameMode.h
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Source/Building_EscapeEditor.Target.cs
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	Documents/Visual Studio 2010/
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	Documents/Visual Studio 2015/
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	Documents/aspneforum_MSsql.sql
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	Documents/certificate.crt
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	Documents/desktop.ini
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	Documents/dumps/
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	Documents/erot/
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	Documents/forum.sql
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	Documents/maya/
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	Documents/orcsoft/
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	Downloads/
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	Favorites/
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	GameMaker-Studio 1.4/
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	GameMakerPlayer/
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	Heaven/
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	IntelGraphicsProfiles/
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	Links/
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	Music/
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	NTUSER.DAT
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	NTUSER.DAT{4b349b30-bee4-11e6-9c7a-d8fc9311f67a}.TM.blf
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	NTUSER.DAT{4b349b30-bee4-11e6-9c7a-d8fc9311f67a}.TMContainer00000000000000000001.regtrans-ms
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	NTUSER.DAT{4b349b30-bee4-11e6-9c7a-d8fc9311f67a}.TMContainer00000000000000000002.regtrans-ms
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	NTUSER.DAT{b1d2178d-83f5-11e6-a284-fd72836239f0}.TxR.0.regtrans-ms
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	NTUSER.DAT{b1d2178d-83f5-11e6-a284-fd72836239f0}.TxR.1.regtrans-ms
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	NTUSER.DAT{b1d2178d-83f5-11e6-a284-fd72836239f0}.TxR.2.regtrans-ms
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	NTUSER.DAT{b1d2178d-83f5-11e6-a284-fd72836239f0}.TxR.blf
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	NTUSER.DAT{b1d2178e-83f5-11e6-a284-fd72836239f0}.TM.blf
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	NTUSER.DAT{b1d2178e-83f5-11e6-a284-fd72836239f0}.TMContainer00000000000000000001.regtrans-ms
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	NTUSER.DAT{b1d2178e-83f5-11e6-a284-fd72836239f0}.TMContainer00000000000000000002.regtrans-ms
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	OneDrive/
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	Pictures/
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	Saved Games/
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	Searches/
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	Videos/
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	VirtualBox VMs/
+[2017.03.10-15.30.08:767][189]SourceControl: Info 	ntuser.dat.LOG1
+[2017.03.10-15.30.08:768][189]SourceControl: Info 	ntuser.dat.LOG2
+[2017.03.10-15.30.08:768][189]SourceControl: Info 	ntuser.ini
+[2017.03.10-15.32.22:808][889]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.03.10-15.32.28:819][908]LogHttp:Warning: 0000019F47328E80: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2017.03.10-15.32.28:819][908]LogHttp:Warning: 0000019F47328E80: libcurl info message cache 8 (Could not resolve host: datarouter.ol.epicgames.com)
+[2017.03.10-15.32.28:819][908]LogHttp:Warning: 0000019F47328E80: libcurl info message cache 9 (Closing connection 561)
+[2017.03.10-15.39.15:461][107]SourceControl: Info On branch master
+[2017.03.10-15.39.15:461][107]SourceControl: Info Your branch is ahead of 'origin/master' by 2 commits.
+[2017.03.10-15.39.15:461][107]SourceControl: Info   (use "git push" to publish your local commits)
+[2017.03.10-15.39.15:461][107]SourceControl: Info Changes to be committed:
+[2017.03.10-15.39.15:461][107]SourceControl: Info   (use "git reset HEAD <file>..." to unstage)
+[2017.03.10-15.39.15:461][107]SourceControl: Info 	new file:   Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Content/StarterContent/Maps/first.umap
+[2017.03.10-15.39.15:461][107]SourceControl: Info 	new file:   Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Source/Building_Escape/PositionReport.cpp
+[2017.03.10-15.39.15:461][107]SourceControl: Info 	new file:   Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Source/Building_Escape/PositionReport.h
+[2017.03.10-15.39.15:461][107]SourceControl: Info Changes not staged for commit:
+[2017.03.10-15.39.15:461][107]SourceControl: Info   (use "git add <file>..." to update what will be committed)
+[2017.03.10-15.39.15:461][107]SourceControl: Info   (use "git checkout -- <file>..." to discard changes in working directory)
+[2017.03.10-15.39.15:461][107]SourceControl: Info 	modified:   Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Config/DefaultGame.ini
+[2017.03.10-15.39.15:461][107]SourceControl: Info 	modified:   Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Content/StarterContent/Maps/Minimal_Default.umap
+[2017.03.10-15.39.15:461][107]SourceControl: Info Untracked files:
+[2017.03.10-15.39.15:461][107]SourceControl: Info   (use "git add <file>..." to include in what will be committed)
+[2017.03.10-15.39.15:461][107]SourceControl: Info 	.VirtualBox/
+[2017.03.10-15.39.15:461][107]SourceControl: Info 	.anaconda/
+[2017.03.10-15.39.15:461][107]SourceControl: Info 	.android/
+[2017.03.10-15.39.15:461][107]SourceControl: Info 	.emulator_console_auth_token
+[2017.03.10-15.39.15:461][107]SourceControl: Info 	.gem/
+[2017.03.10-15.39.15:461][107]SourceControl: Info 	.get_iplayer/
+[2017.03.10-15.39.15:461][107]SourceControl: Info 	.gitattributes
+[2017.03.10-15.39.15:461][107]SourceControl: Info 	.gitconfig
+[2017.03.10-15.39.15:461][107]SourceControl: Info 	.gitignore
+[2017.03.10-15.39.15:461][107]SourceControl: Info 	.idlerc/
+[2017.03.10-15.39.15:461][107]SourceControl: Info 	.ipython/
+[2017.03.10-15.39.15:461][107]SourceControl: Info 	.nbi/
+[2017.03.10-15.39.15:461][107]SourceControl: Info 	.netbeans-derby/
+[2017.03.10-15.39.15:461][107]SourceControl: Info 	.oracle_jre_usage/
+[2017.03.10-15.39.15:461][107]SourceControl: Info 	.recently-used.xbel
+[2017.03.10-15.39.15:461][107]SourceControl: Info 	.ssh/
+[2017.03.10-15.39.15:461][107]SourceControl: Info 	.vagrant.d/
+[2017.03.10-15.39.15:461][107]SourceControl: Info 	3D Objects/
+[2017.03.10-15.39.15:461][107]SourceControl: Info 	Anaconda3/
+[2017.03.10-15.39.15:461][107]SourceControl: Info 	AppData/
+[2017.03.10-15.39.15:461][107]SourceControl: Info 	Contacts/
+[2017.03.10-15.39.15:462][107]SourceControl: Info 	Desktop/
+[2017.03.10-15.39.15:462][107]SourceControl: Info 	Documents/AVG Free Edn/
+[2017.03.10-15.39.15:462][107]SourceControl: Info 	Documents/Aspyr/
+[2017.03.10-15.39.15:462][107]SourceControl: Info 	Documents/Assassin's Creed Syndicate/
+[2017.03.10-15.39.15:462][107]SourceControl: Info 	Documents/Audible/
+[2017.03.10-15.39.15:462][107]SourceControl: Info 	Documents/BOOK IDEA.docx
+[2017.03.10-15.39.15:462][107]SourceControl: Info 	Documents/BioWare/
+[2017.03.10-15.39.15:462][107]SourceControl: Info 	Documents/Bioshock/
+[2017.03.10-15.39.15:462][107]SourceControl: Info 	Documents/CEP_Documentation/
+[2017.03.10-15.39.15:462][107]SourceControl: Info 	Documents/Call tracker.accdt
+[2017.03.10-15.39.15:462][107]SourceControl: Info 	Documents/CyberLink/
+[2017.03.10-15.39.15:462][107]SourceControl: Info 	Documents/Database1.accdb
+[2017.03.10-15.39.15:462][107]SourceControl: Info 	Documents/Database2.accdb
+[2017.03.10-15.39.15:462][107]SourceControl: Info 	Documents/DesktopReminder/
+[2017.03.10-15.39.15:462][107]SourceControl: Info 	Documents/Electronic Arts/
+[2017.03.10-15.39.15:462][107]SourceControl: Info 	Documents/Euro Truck Simulator 2/
+[2017.03.10-15.39.15:462][107]SourceControl: Info 	Documents/Fax/
+[2017.03.10-15.39.15:462][107]SourceControl: Info 	Documents/GTAV Mods/
+[2017.03.10-15.39.15:462][107]SourceControl: Info 	Documents/GitHub/
+[2017.03.10-15.39.15:462][107]SourceControl: Info 	Documents/IC3/
+[2017.03.10-15.39.15:462][107]SourceControl: Info 	Documents/IISExpress/
+[2017.03.10-15.39.15:462][107]SourceControl: Info 	Documents/KentuckyRouteZero/
+[2017.03.10-15.39.15:462][107]SourceControl: Info 	Documents/Lenovo/
+[2017.03.10-15.39.15:462][107]SourceControl: Info 	Documents/LucasArts/
+[2017.03.10-15.39.15:462][107]SourceControl: Info 	Documents/Mount&Blade Savegames/
+[2017.03.10-15.39.15:462][107]SourceControl: Info 	Documents/Music - Shortcut.lnk
+[2017.03.10-15.39.15:462][107]SourceControl: Info 	Documents/My Games/
+[2017.03.10-15.39.15:462][107]SourceControl: Info 	Documents/My Kindle Content/
+[2017.03.10-15.39.15:462][107]SourceControl: Info 	Documents/My Leagues/
+[2017.03.10-15.39.15:462][107]SourceControl: Info 	Documents/My Library/
+[2017.03.10-15.39.15:462][107]SourceControl: Info 	Documents/My Recordings/
+[2017.03.10-15.39.15:462][107]SourceControl: Info 	Documents/My Shapes/
+[2017.03.10-15.39.15:462][107]SourceControl: Info 	Documents/My Web Sites/
+[2017.03.10-15.39.15:462][107]SourceControl: Info 	Documents/My Widgets/
+[2017.03.10-15.39.15:462][107]SourceControl: Info 	Documents/Naturalsoft/
+[2017.03.10-15.39.15:462][107]SourceControl: Info 	Documents/NetBeansProjects/
+[2017.03.10-15.39.15:462][107]SourceControl: Info 	Documents/OpenOffice.org 3.4.1 (en-US) Installation Files/
+[2017.03.10-15.39.15:462][107]SourceControl: Info 	Documents/Paradox Interactive/
+[2017.03.10-15.39.15:462][107]SourceControl: Info 	Documents/Rainmeter/
+[2017.03.10-15.39.15:462][107]SourceControl: Info 	Documents/Rockstar Games/
+[2017.03.10-15.39.15:462][107]SourceControl: Info 	Documents/SQL Server Management Studio/
+[2017.03.10-15.39.15:462][107]SourceControl: Info 	Documents/Scanned Documents/
+[2017.03.10-15.39.15:462][107]SourceControl: Info 	Documents/TLJ/
+[2017.03.10-15.39.15:462][107]SourceControl: Info 	Documents/Table.docx
+[2017.03.10-15.39.15:462][107]SourceControl: Info 	Documents/The Witcher 3/
+[2017.03.10-15.39.15:462][107]SourceControl: Info 	Documents/The Witcher/
+[2017.03.10-15.39.15:462][107]SourceControl: Info 	Documents/Unreal Projects/MyProject1/
+[2017.03.10-15.39.15:462][107]SourceControl: Info 	Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Binaries/
+[2017.03.10-15.39.15:462][107]SourceControl: Info 	Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Building_Escape.sln
+[2017.03.10-15.39.15:462][107]SourceControl: Info 	Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Building_Escape.uproject
+[2017.03.10-15.39.15:462][107]SourceControl: Info 	Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Config/DefaultEditor.ini
+[2017.03.10-15.39.15:462][107]SourceControl: Info 	Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Content/StarterContent/Architecture/
+[2017.03.10-15.39.15:462][107]SourceControl: Info 	Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Content/StarterContent/Audio/
+[2017.03.10-15.39.15:462][107]SourceControl: Info 	Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Content/StarterContent/Blueprints/
+[2017.03.10-15.39.15:462][107]SourceControl: Info 	Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Content/StarterContent/HDRI/
+[2017.03.10-15.39.15:462][107]SourceControl: Info 	Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Content/StarterContent/Materials/
+[2017.03.10-15.39.15:462][107]SourceControl: Info 	Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Content/StarterContent/Particles/
+[2017.03.10-15.39.15:462][107]SourceControl: Info 	Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Content/StarterContent/Props/Materials/
+[2017.03.10-15.39.15:462][107]SourceControl: Info 	Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Content/StarterContent/Shapes/
+[2017.03.10-15.39.15:462][107]SourceControl: Info 	Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Content/StarterContent/Textures/
+[2017.03.10-15.39.15:462][107]SourceControl: Info 	Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Intermediate/
+[2017.03.10-15.39.15:462][107]SourceControl: Info 	Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Saved/
+[2017.03.10-15.39.15:462][107]SourceControl: Info 	Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Source/Building_Escape.Target.cs
+[2017.03.10-15.39.15:462][107]SourceControl: Info 	Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Source/Building_Escape/Building_Escape.Build.cs
+[2017.03.10-15.39.15:462][107]SourceControl: Info 	Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Source/Building_Escape/Building_Escape.cpp
+[2017.03.10-15.39.15:462][107]SourceControl: Info 	Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Source/Building_Escape/Building_Escape.h
+[2017.03.10-15.39.15:462][107]SourceControl: Info 	Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Source/Building_Escape/Building_EscapeGameMode.cpp
+[2017.03.10-15.39.15:462][107]SourceControl: Info 	Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Source/Building_Escape/Building_EscapeGameMode.h
+[2017.03.10-15.39.15:463][107]SourceControl: Info 	Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Source/Building_EscapeEditor.Target.cs
+[2017.03.10-15.39.15:463][107]SourceControl: Info 	Documents/Visual Studio 2010/
+[2017.03.10-15.39.15:463][107]SourceControl: Info 	Documents/Visual Studio 2015/
+[2017.03.10-15.39.15:463][107]SourceControl: Info 	Documents/aspneforum_MSsql.sql
+[2017.03.10-15.39.15:463][107]SourceControl: Info 	Documents/certificate.crt
+[2017.03.10-15.39.15:463][107]SourceControl: Info 	Documents/desktop.ini
+[2017.03.10-15.39.15:463][107]SourceControl: Info 	Documents/dumps/
+[2017.03.10-15.39.15:463][107]SourceControl: Info 	Documents/erot/
+[2017.03.10-15.39.15:463][107]SourceControl: Info 	Documents/forum.sql
+[2017.03.10-15.39.15:463][107]SourceControl: Info 	Documents/maya/
+[2017.03.10-15.39.15:463][107]SourceControl: Info 	Documents/orcsoft/
+[2017.03.10-15.39.15:463][107]SourceControl: Info 	Downloads/
+[2017.03.10-15.39.15:463][107]SourceControl: Info 	Favorites/
+[2017.03.10-15.39.15:463][107]SourceControl: Info 	GameMaker-Studio 1.4/
+[2017.03.10-15.39.15:463][107]SourceControl: Info 	GameMakerPlayer/
+[2017.03.10-15.39.15:463][107]SourceControl: Info 	Heaven/
+[2017.03.10-15.39.15:463][107]SourceControl: Info 	IntelGraphicsProfiles/
+[2017.03.10-15.39.15:463][107]SourceControl: Info 	Links/
+[2017.03.10-15.39.15:463][107]SourceControl: Info 	Music/
+[2017.03.10-15.39.15:463][107]SourceControl: Info 	NTUSER.DAT
+[2017.03.10-15.39.15:463][107]SourceControl: Info 	NTUSER.DAT{4b349b30-bee4-11e6-9c7a-d8fc9311f67a}.TM.blf
+[2017.03.10-15.39.15:463][107]SourceControl: Info 	NTUSER.DAT{4b349b30-bee4-11e6-9c7a-d8fc9311f67a}.TMContainer00000000000000000001.regtrans-ms
+[2017.03.10-15.39.15:463][107]SourceControl: Info 	NTUSER.DAT{4b349b30-bee4-11e6-9c7a-d8fc9311f67a}.TMContainer00000000000000000002.regtrans-ms
+[2017.03.10-15.39.15:463][107]SourceControl: Info 	NTUSER.DAT{b1d2178d-83f5-11e6-a284-fd72836239f0}.TxR.0.regtrans-ms
+[2017.03.10-15.39.15:463][107]SourceControl: Info 	NTUSER.DAT{b1d2178d-83f5-11e6-a284-fd72836239f0}.TxR.1.regtrans-ms
+[2017.03.10-15.39.15:463][107]SourceControl: Info 	NTUSER.DAT{b1d2178d-83f5-11e6-a284-fd72836239f0}.TxR.2.regtrans-ms
+[2017.03.10-15.39.15:463][107]SourceControl: Info 	NTUSER.DAT{b1d2178d-83f5-11e6-a284-fd72836239f0}.TxR.blf
+[2017.03.10-15.39.15:463][107]SourceControl: Info 	NTUSER.DAT{b1d2178e-83f5-11e6-a284-fd72836239f0}.TM.blf
+[2017.03.10-15.39.15:463][107]SourceControl: Info 	NTUSER.DAT{b1d2178e-83f5-11e6-a284-fd72836239f0}.TMContainer00000000000000000001.regtrans-ms
+[2017.03.10-15.39.15:463][107]SourceControl: Info 	NTUSER.DAT{b1d2178e-83f5-11e6-a284-fd72836239f0}.TMContainer00000000000000000002.regtrans-ms
+[2017.03.10-15.39.15:463][107]SourceControl: Info 	OneDrive/
+[2017.03.10-15.39.15:463][107]SourceControl: Info 	Pictures/
+[2017.03.10-15.39.15:463][107]SourceControl: Info 	Saved Games/
+[2017.03.10-15.39.15:463][107]SourceControl: Info 	Searches/
+[2017.03.10-15.39.15:463][107]SourceControl: Info 	Videos/
+[2017.03.10-15.39.15:463][107]SourceControl: Info 	VirtualBox VMs/
+[2017.03.10-15.39.15:463][107]SourceControl: Info 	ntuser.dat.LOG1
+[2017.03.10-15.39.15:463][107]SourceControl: Info 	ntuser.dat.LOG2
+[2017.03.10-15.39.15:463][107]SourceControl: Info 	ntuser.ini
+[2017.03.10-15.39.35:510][363]SourceControl: Info fatal: C:/Program Files (x86)/Epic Games/4.13/Engine/Content/: 'C:/Program Files (x86)/Epic Games/4.13/Engine/Content/' is outside repository
+[2017.03.10-15.39.52:938][953]SourceControl: Info On branch master
+[2017.03.10-15.39.52:938][953]SourceControl: Info Your branch is ahead of 'origin/master' by 2 commits.
+[2017.03.10-15.39.52:938][953]SourceControl: Info   (use "git push" to publish your local commits)
+[2017.03.10-15.39.52:938][953]SourceControl: Info Changes to be committed:
+[2017.03.10-15.39.52:938][953]SourceControl: Info   (use "git reset HEAD <file>..." to unstage)
+[2017.03.10-15.39.52:938][953]SourceControl: Info 	new file:   Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Content/StarterContent/Maps/first.umap
+[2017.03.10-15.39.52:938][953]SourceControl: Info 	new file:   Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Source/Building_Escape/PositionReport.cpp
+[2017.03.10-15.39.52:938][953]SourceControl: Info 	new file:   Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Source/Building_Escape/PositionReport.h
+[2017.03.10-15.39.52:938][953]SourceControl: Info Changes not staged for commit:
+[2017.03.10-15.39.52:938][953]SourceControl: Info   (use "git add <file>..." to update what will be committed)
+[2017.03.10-15.39.52:938][953]SourceControl: Info   (use "git checkout -- <file>..." to discard changes in working directory)
+[2017.03.10-15.39.52:938][953]SourceControl: Info 	modified:   Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Config/DefaultGame.ini
+[2017.03.10-15.39.52:938][953]SourceControl: Info 	modified:   Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Content/StarterContent/Maps/Minimal_Default.umap
+[2017.03.10-15.39.52:938][953]SourceControl: Info Untracked files:
+[2017.03.10-15.39.52:938][953]SourceControl: Info   (use "git add <file>..." to include in what will be committed)
+[2017.03.10-15.39.52:938][953]SourceControl: Info 	.VirtualBox/
+[2017.03.10-15.39.52:938][953]SourceControl: Info 	.anaconda/
+[2017.03.10-15.39.52:938][953]SourceControl: Info 	.android/
+[2017.03.10-15.39.52:938][953]SourceControl: Info 	.emulator_console_auth_token
+[2017.03.10-15.39.52:938][953]SourceControl: Info 	.gem/
+[2017.03.10-15.39.52:938][953]SourceControl: Info 	.get_iplayer/
+[2017.03.10-15.39.52:938][953]SourceControl: Info 	.gitattributes
+[2017.03.10-15.39.52:938][953]SourceControl: Info 	.gitconfig
+[2017.03.10-15.39.52:938][953]SourceControl: Info 	.gitignore
+[2017.03.10-15.39.52:938][953]SourceControl: Info 	.idlerc/
+[2017.03.10-15.39.52:938][953]SourceControl: Info 	.ipython/
+[2017.03.10-15.39.52:938][953]SourceControl: Info 	.nbi/
+[2017.03.10-15.39.52:938][953]SourceControl: Info 	.netbeans-derby/
+[2017.03.10-15.39.52:938][953]SourceControl: Info 	.oracle_jre_usage/
+[2017.03.10-15.39.52:938][953]SourceControl: Info 	.recently-used.xbel
+[2017.03.10-15.39.52:938][953]SourceControl: Info 	.ssh/
+[2017.03.10-15.39.52:938][953]SourceControl: Info 	.vagrant.d/
+[2017.03.10-15.39.52:938][953]SourceControl: Info 	3D Objects/
+[2017.03.10-15.39.52:938][953]SourceControl: Info 	Anaconda3/
+[2017.03.10-15.39.52:938][953]SourceControl: Info 	AppData/
+[2017.03.10-15.39.52:938][953]SourceControl: Info 	Contacts/
+[2017.03.10-15.39.52:938][953]SourceControl: Info 	Desktop/
+[2017.03.10-15.39.52:939][953]SourceControl: Info 	Documents/AVG Free Edn/
+[2017.03.10-15.39.52:939][953]SourceControl: Info 	Documents/Aspyr/
+[2017.03.10-15.39.52:939][953]SourceControl: Info 	Documents/Assassin's Creed Syndicate/
+[2017.03.10-15.39.52:939][953]SourceControl: Info 	Documents/Audible/
+[2017.03.10-15.39.52:939][953]SourceControl: Info 	Documents/BOOK IDEA.docx
+[2017.03.10-15.39.52:939][953]SourceControl: Info 	Documents/BioWare/
+[2017.03.10-15.39.52:939][953]SourceControl: Info 	Documents/Bioshock/
+[2017.03.10-15.39.52:939][953]SourceControl: Info 	Documents/CEP_Documentation/
+[2017.03.10-15.39.52:939][953]SourceControl: Info 	Documents/Call tracker.accdt
+[2017.03.10-15.39.52:939][953]SourceControl: Info 	Documents/CyberLink/
+[2017.03.10-15.39.52:939][953]SourceControl: Info 	Documents/Database1.accdb
+[2017.03.10-15.39.52:939][953]SourceControl: Info 	Documents/Database2.accdb
+[2017.03.10-15.39.52:939][953]SourceControl: Info 	Documents/DesktopReminder/
+[2017.03.10-15.39.52:939][953]SourceControl: Info 	Documents/Electronic Arts/
+[2017.03.10-15.39.52:939][953]SourceControl: Info 	Documents/Euro Truck Simulator 2/
+[2017.03.10-15.39.52:939][953]SourceControl: Info 	Documents/Fax/
+[2017.03.10-15.39.52:939][953]SourceControl: Info 	Documents/GTAV Mods/
+[2017.03.10-15.39.52:939][953]SourceControl: Info 	Documents/GitHub/
+[2017.03.10-15.39.52:939][953]SourceControl: Info 	Documents/IC3/
+[2017.03.10-15.39.52:939][953]SourceControl: Info 	Documents/IISExpress/
+[2017.03.10-15.39.52:939][953]SourceControl: Info 	Documents/KentuckyRouteZero/
+[2017.03.10-15.39.52:939][953]SourceControl: Info 	Documents/Lenovo/
+[2017.03.10-15.39.52:939][953]SourceControl: Info 	Documents/LucasArts/
+[2017.03.10-15.39.52:939][953]SourceControl: Info 	Documents/Mount&Blade Savegames/
+[2017.03.10-15.39.52:939][953]SourceControl: Info 	Documents/Music - Shortcut.lnk
+[2017.03.10-15.39.52:939][953]SourceControl: Info 	Documents/My Games/
+[2017.03.10-15.39.52:939][953]SourceControl: Info 	Documents/My Kindle Content/
+[2017.03.10-15.39.52:939][953]SourceControl: Info 	Documents/My Leagues/
+[2017.03.10-15.39.52:939][953]SourceControl: Info 	Documents/My Library/
+[2017.03.10-15.39.52:939][953]SourceControl: Info 	Documents/My Recordings/
+[2017.03.10-15.39.52:939][953]SourceControl: Info 	Documents/My Shapes/
+[2017.03.10-15.39.52:939][953]SourceControl: Info 	Documents/My Web Sites/
+[2017.03.10-15.39.52:939][953]SourceControl: Info 	Documents/My Widgets/
+[2017.03.10-15.39.52:939][953]SourceControl: Info 	Documents/Naturalsoft/
+[2017.03.10-15.39.52:939][953]SourceControl: Info 	Documents/NetBeansProjects/
+[2017.03.10-15.39.52:939][953]SourceControl: Info 	Documents/OpenOffice.org 3.4.1 (en-US) Installation Files/
+[2017.03.10-15.39.52:939][953]SourceControl: Info 	Documents/Paradox Interactive/
+[2017.03.10-15.39.52:939][953]SourceControl: Info 	Documents/Rainmeter/
+[2017.03.10-15.39.52:939][953]SourceControl: Info 	Documents/Rockstar Games/
+[2017.03.10-15.39.52:939][953]SourceControl: Info 	Documents/SQL Server Management Studio/
+[2017.03.10-15.39.52:939][953]SourceControl: Info 	Documents/Scanned Documents/
+[2017.03.10-15.39.52:939][953]SourceControl: Info 	Documents/TLJ/
+[2017.03.10-15.39.52:939][953]SourceControl: Info 	Documents/Table.docx
+[2017.03.10-15.39.52:939][953]SourceControl: Info 	Documents/The Witcher 3/
+[2017.03.10-15.39.52:939][953]SourceControl: Info 	Documents/The Witcher/
+[2017.03.10-15.39.52:939][953]SourceControl: Info 	Documents/Unreal Projects/MyProject1/
+[2017.03.10-15.39.52:939][953]SourceControl: Info 	Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Binaries/
+[2017.03.10-15.39.52:939][953]SourceControl: Info 	Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Building_Escape.sln
+[2017.03.10-15.39.52:939][953]SourceControl: Info 	Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Building_Escape.uproject
+[2017.03.10-15.39.52:939][953]SourceControl: Info 	Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Config/DefaultEditor.ini
+[2017.03.10-15.39.52:939][953]SourceControl: Info 	Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Content/StarterContent/Architecture/
+[2017.03.10-15.39.52:939][953]SourceControl: Info 	Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Content/StarterContent/Audio/
+[2017.03.10-15.39.52:939][953]SourceControl: Info 	Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Content/StarterContent/Blueprints/
+[2017.03.10-15.39.52:939][953]SourceControl: Info 	Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Content/StarterContent/HDRI/
+[2017.03.10-15.39.52:939][953]SourceControl: Info 	Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Content/StarterContent/Materials/
+[2017.03.10-15.39.52:939][953]SourceControl: Info 	Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Content/StarterContent/Particles/
+[2017.03.10-15.39.52:939][953]SourceControl: Info 	Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Content/StarterContent/Props/Materials/
+[2017.03.10-15.39.52:939][953]SourceControl: Info 	Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Content/StarterContent/Shapes/
+[2017.03.10-15.39.52:939][953]SourceControl: Info 	Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Content/StarterContent/Textures/
+[2017.03.10-15.39.52:939][953]SourceControl: Info 	Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Intermediate/
+[2017.03.10-15.39.52:939][953]SourceControl: Info 	Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Saved/
+[2017.03.10-15.39.52:939][953]SourceControl: Info 	Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Source/Building_Escape.Target.cs
+[2017.03.10-15.39.52:939][953]SourceControl: Info 	Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Source/Building_Escape/Building_Escape.Build.cs
+[2017.03.10-15.39.52:939][953]SourceControl: Info 	Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Source/Building_Escape/Building_Escape.cpp
+[2017.03.10-15.39.52:939][953]SourceControl: Info 	Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Source/Building_Escape/Building_Escape.h
+[2017.03.10-15.39.52:939][953]SourceControl: Info 	Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Source/Building_Escape/Building_EscapeGameMode.cpp
+[2017.03.10-15.39.52:939][953]SourceControl: Info 	Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Source/Building_Escape/Building_EscapeGameMode.h
+[2017.03.10-15.39.52:939][953]SourceControl: Info 	Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Source/Building_EscapeEditor.Target.cs
+[2017.03.10-15.39.52:939][953]SourceControl: Info 	Documents/Visual Studio 2010/
+[2017.03.10-15.39.52:939][953]SourceControl: Info 	Documents/Visual Studio 2015/
+[2017.03.10-15.39.52:939][953]SourceControl: Info 	Documents/aspneforum_MSsql.sql
+[2017.03.10-15.39.52:939][953]SourceControl: Info 	Documents/certificate.crt
+[2017.03.10-15.39.52:939][953]SourceControl: Info 	Documents/desktop.ini
+[2017.03.10-15.39.52:940][953]SourceControl: Info 	Documents/dumps/
+[2017.03.10-15.39.52:940][953]SourceControl: Info 	Documents/erot/
+[2017.03.10-15.39.52:940][953]SourceControl: Info 	Documents/forum.sql
+[2017.03.10-15.39.52:940][953]SourceCon
