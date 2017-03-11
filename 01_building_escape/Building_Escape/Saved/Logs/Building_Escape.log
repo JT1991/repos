@@ -1189,4 +1189,100 @@ LogInit: Object subsystem initialized
 [2017.03.10-15.39.52:940][953]SourceControl: Info 	Documents/dumps/
 [2017.03.10-15.39.52:940][953]SourceControl: Info 	Documents/erot/
 [2017.03.10-15.39.52:940][953]SourceControl: Info 	Documents/forum.sql
-[2017.03.10-15.39.52:940][953]SourceCon
+[2017.03.10-15.39.52:940][953]SourceControl: Info 	Documents/maya/
+[2017.03.10-15.39.52:940][953]SourceControl: Info 	Documents/orcsoft/
+[2017.03.10-15.39.52:940][953]SourceControl: Info 	Downloads/
+[2017.03.10-15.39.52:940][953]SourceControl: Info 	Favorites/
+[2017.03.10-15.39.52:940][953]SourceControl: Info 	GameMaker-Studio 1.4/
+[2017.03.10-15.39.52:940][953]SourceControl: Info 	GameMakerPlayer/
+[2017.03.10-15.39.52:940][953]SourceControl: Info 	Heaven/
+[2017.03.10-15.39.52:940][953]SourceControl: Info 	IntelGraphicsProfiles/
+[2017.03.10-15.39.52:940][953]SourceControl: Info 	Links/
+[2017.03.10-15.39.52:940][953]SourceControl: Info 	Music/
+[2017.03.10-15.39.52:940][953]SourceControl: Info 	NTUSER.DAT
+[2017.03.10-15.39.52:940][953]SourceControl: Info 	NTUSER.DAT{4b349b30-bee4-11e6-9c7a-d8fc9311f67a}.TM.blf
+[2017.03.10-15.39.52:940][953]SourceControl: Info 	NTUSER.DAT{4b349b30-bee4-11e6-9c7a-d8fc9311f67a}.TMContainer00000000000000000001.regtrans-ms
+[2017.03.10-15.39.52:940][953]SourceControl: Info 	NTUSER.DAT{4b349b30-bee4-11e6-9c7a-d8fc9311f67a}.TMContainer00000000000000000002.regtrans-ms
+[2017.03.10-15.39.52:940][953]SourceControl: Info 	NTUSER.DAT{b1d2178d-83f5-11e6-a284-fd72836239f0}.TxR.0.regtrans-ms
+[2017.03.10-15.39.52:940][953]SourceControl: Info 	NTUSER.DAT{b1d2178d-83f5-11e6-a284-fd72836239f0}.TxR.1.regtrans-ms
+[2017.03.10-15.39.52:940][953]SourceControl: Info 	NTUSER.DAT{b1d2178d-83f5-11e6-a284-fd72836239f0}.TxR.2.regtrans-ms
+[2017.03.10-15.39.52:940][953]SourceControl: Info 	NTUSER.DAT{b1d2178d-83f5-11e6-a284-fd72836239f0}.TxR.blf
+[2017.03.10-15.39.52:940][953]SourceControl: Info 	NTUSER.DAT{b1d2178e-83f5-11e6-a284-fd72836239f0}.TM.blf
+[2017.03.10-15.39.52:940][953]SourceControl: Info 	NTUSER.DAT{b1d2178e-83f5-11e6-a284-fd72836239f0}.TMContainer00000000000000000001.regtrans-ms
+[2017.03.10-15.39.52:940][953]SourceControl: Info 	NTUSER.DAT{b1d2178e-83f5-11e6-a284-fd72836239f0}.TMContainer00000000000000000002.regtrans-ms
+[2017.03.10-15.39.52:940][953]SourceControl: Info 	OneDrive/
+[2017.03.10-15.39.52:940][953]SourceControl: Info 	Pictures/
+[2017.03.10-15.39.52:940][953]SourceControl: Info 	Saved Games/
+[2017.03.10-15.39.52:940][953]SourceControl: Info 	Searches/
+[2017.03.10-15.39.52:940][953]SourceControl: Info 	Videos/
+[2017.03.10-15.39.52:940][953]SourceControl: Info 	VirtualBox VMs/
+[2017.03.10-15.39.52:940][953]SourceControl: Info 	ntuser.dat.LOG1
+[2017.03.10-15.39.52:940][953]SourceControl: Info 	ntuser.dat.LOG2
+[2017.03.10-15.39.52:940][953]SourceControl: Info 	ntuser.ini
+[2017.03.11-12.24.42:776][691]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2017.03.11-12.27.52:172][687]LogVSAccessor:Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2017.03.11-12.28.25:071][688]LogVSAccessor:Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2017.03.11-12.28.25:153][689]LogVSAccessor:Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2017.03.11-12.28.25:569][690]LogVSAccessor:Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2017.03.11-12.28.35:737][691]LogVSAccessor:Warning: Visual Studio is open but could not be queried - it may be blocked by a modal operation
+[2017.03.11-12.28.39:138][692]LogVSAccessor:Warning: Couldn't goto line number '0' in 'C:/Users/Josh/Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Source/Building_Escape/PositionReport.h'
+[2017.03.11-12.28.40:444][692]LogVSAccessor:Warning: Couldn't goto line number '0' in 'C:/Users/Josh/Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Source/Building_Escape/PositionReport.cpp'
+[2017.03.11-12.31.32:144][121]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair)
+[2017.03.11-12.31.34:557][122]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair)
+[2017.03.11-12.31.58:716][  6]LogVSAccessor:Warning: Couldn't goto line number '0' in 'C:/Users/Josh/Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Source/Building_Escape/PositionReport.h'
+[2017.03.11-12.31.58:769][  6]LogVSAccessor:Warning: Couldn't goto line number '0' in 'C:/Users/Josh/Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Source/Building_Escape/PositionReport.cpp'
+[2017.03.11-12.32.03:382][156]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock)
+[2017.03.11-12.32.07:134][470]LogVSAccessor:Warning: Couldn't goto line number '0' in 'C:/Users/Josh/Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Source/Building_Escape/PositionReport.h'
+[2017.03.11-12.32.07:185][470]LogVSAccessor:Warning: Couldn't goto line number '0' in 'C:/Users/Josh/Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Source/Building_Escape/PositionReport.cpp'
+[2017.03.11-12.32.17:522][625]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair)
+[2017.03.11-12.32.32:919][303]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock)
+[2017.03.11-12.32.39:644][ 48]LogVSAccessor:Warning: Couldn't goto line number '0' in 'C:/Users/Josh/Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Source/Building_Escape/PositionReport.h'
+[2017.03.11-12.32.39:717][ 48]LogVSAccessor:Warning: Couldn't goto line number '0' in 'C:/Users/Josh/Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Source/Building_Escape/PositionReport.cpp'
+[2017.03.11-12.32.48:503][187]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair)
+[2017.03.11-12.32.53:501][737]LogVSAccessor:Warning: Couldn't goto line number '0' in 'C:/Users/Josh/Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Source/Building_Escape/PositionReport.h'
+[2017.03.11-12.32.53:625][737]LogVSAccessor:Warning: Couldn't goto line number '0' in 'C:/Users/Josh/Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Source/Building_Escape/PositionReport.cpp'
+[2017.03.11-12.33.32:634][580]LogVSAccessor:Warning: Couldn't goto line number '0' in 'C:/Users/Josh/Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Source/Building_Escape/PositionReport.h'
+[2017.03.11-12.33.32:679][580]LogVSAccessor:Warning: Couldn't goto line number '0' in 'C:/Users/Josh/Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Source/Building_Escape/PositionReport.cpp'
+[2017.03.11-12.33.47:733][977]Recompiling Building_Escape...
+[2017.03.11-12.33.47:756][977]Launching UnrealBuildTool... [C:/Program Files (x86)/Epic Games/4.13/Engine/Binaries/DotNET/UnrealBuildTool.exe Building_Escape -ModuleWithSuffix Building_Escape 3404 Win64 Development -editorrecompile -canskiplink "C:/Users/Josh/Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Building_Escape.uproject"  -2015]
+[2017.03.11-12.33.48:362][977]Warning: Starting HotReload took  0.8s.
+[2017.03.11-12.35.17:532][124]CompilerResultsLog: New page: Compilation - 11 Mar 2017 12:35:17
+[2017.03.11-12.35.17:532][124]CompilerResultsLog: Info Creating makefile for hot reloading Building_Escape (game project files are newer)
+[2017.03.11-12.35.17:532][124]CompilerResultsLog: Info Compiling game modules for hot reload
+[2017.03.11-12.35.17:532][124]CompilerResultsLog: Info Parsing headers for Building_EscapeEditor
+[2017.03.11-12.35.17:532][124]CompilerResultsLog: Info   Running UnrealHeaderTool "C:\Users\Josh\Documents\Unreal Projects\repos\01_building_escape\Building_Escape\Building_Escape.uproject" "C:\Users\Josh\Documents\Unreal Projects\repos\01_building_escape\Building_Escape\Intermediate\Build\Win64\Building_EscapeEditor\Development\Building_EscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2017.03.11-12.35.17:533][124]CompilerResultsLog: Info Reflection code generated for Building_EscapeEditor in 6.2487601 seconds
+[2017.03.11-12.35.17:533][124]CompilerResultsLog: Info Performing 2 actions (4 in parallel)
+[2017.03.11-12.35.17:533][124]CompilerResultsLog: Info PositionReport.cpp
+[2017.03.11-12.35.17:533][124]CompilerResultsLog: Info [2/2] Link UE4Editor-Building_Escape-3404.dll
+[2017.03.11-12.35.17:533][124]CompilerResultsLog: Info    Creating library C:\Users\Josh\Documents\Unreal Projects\repos\01_building_escape\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Building_Escape-3404.lib and object C:\Users\Josh\Documents\Unreal Projects\repos\01_building_escape\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Building_Escape-3404.exp
+[2017.03.11-12.35.17:533][124]CompilerResultsLog: Info Total build time: 86.34 seconds
+[2017.03.11-12.35.17:533][124]LogMainFrame: MainFrame: Module compiling took 89.866 seconds
+[2017.03.11-12.35.21:411][124]LogContentBrowser: Native class hierarchy updated for 'Building_Escape' in 0.0022 seconds. Added 2 classes and 2 folders.
+[2017.03.11-12.35.21:413][124]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2017.03.11-12.35.22:818][124]LogContentBrowser: Native class hierarchy populated in 0.3999 seconds. Added 2145 classes and 421 folders.
+[2017.03.11-12.35.22:926][124]Display: HotReload took 95.4s.
+[2017.03.11-12.36.40:448][984]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.11-12.36.40:747][984]PIE: New page: PIE session: first (11 Mar 2017 12:36:40)
+[2017.03.11-12.36.40:820][984]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_first
+[2017.03.11-12.36.41:282][984]LogPlayLevel: PIE: StaticDuplicateObject took: (0.436003s)
+[2017.03.11-12.36.41:569][984]LogAIModule: Creating AISystem for world first
+[2017.03.11-12.36.41:643][984]LogPlayLevel: PIE: World Init took: (0.360484s)
+[2017.03.11-12.36.41:709][984]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/first.first to /Game/StarterContent/Maps/UEDPIE_0_first.first (0.908680s)
+[2017.03.11-12.36.41:949][984]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.11-12.36.42:350][984]LogInit: FAudioDevice initialized.
+[2017.03.11-12.36.43:379][984]LogWorld: Game class is 'Building_EscapeGameMode'
+[2017.03.11-12.36.43:715][984]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_first.first up for play (max tick rate 0) at 2017.03.11-12.36.43
+[2017.03.11-12.36.43:787][984]LogWorld: Bringing up level for play took: 0.095838
+[2017.03.11-12.36.44:483][984]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0200 seconds. Added 11 classes and 0 folders.
+[2017.03.11-12.36.44:484][984]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.11-12.36.44:490][984]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.11-12.36.44:490][984]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.11-12.36.44:589][984]LogTemp:Warning: Position report reporting on Chair.
+[2017.03.11-12.36.44:589][984]LogTemp:Warning: Position report reporting on Chair.
+[2017.03.11-12.36.44:656][984]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.11-12.36.44:702][984]PIE: Info Play in editor start time for /Game/StarterContent/Maps/UEDPIE_0_first 3.671
+[2017.03.11-12.38.02:623][606]LogSavePackage: Save=539.50ms
+[2017.03.11-12.38.02:623][606]LogSavePackage: Moving '../../../../../../Users/Josh/Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Saved/first5F960A2D4A0D5B53A7BDE5B81C5D3363.tmp' to '../../../../../../Users/Josh/Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Content/StarterContent/Maps/first.umap'
+[2017.03.11-12.38.02:626][606]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Josh/Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Content/StarterContent/Maps/first.umap
+[2017.03.11-12.38.08:202][173]SourceControl: Info fatal: C:/Program Files (x86)/Epic Games/4.13/Engine/Content/: 'C:/Program Files (x86)/Epic Games/4.13/Engine/Content/' is outside reposit
