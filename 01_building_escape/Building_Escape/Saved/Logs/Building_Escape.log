@@ -1285,4 +1285,329 @@ LogInit: Object subsystem initialized
 [2017.03.11-12.38.02:623][606]LogSavePackage: Save=539.50ms
 [2017.03.11-12.38.02:623][606]LogSavePackage: Moving '../../../../../../Users/Josh/Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Saved/first5F960A2D4A0D5B53A7BDE5B81C5D3363.tmp' to '../../../../../../Users/Josh/Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Content/StarterContent/Maps/first.umap'
 [2017.03.11-12.38.02:626][606]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Josh/Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Content/StarterContent/Maps/first.umap
-[2017.03.11-12.38.08:202][173]SourceControl: Info fatal: C:/Program Files (x86)/Epic Games/4.13/Engine/Content/: 'C:/Program Files (x86)/Epic Games/4.13/Engine/Content/' is outside reposit
+[2017.03.11-12.38.08:202][173]SourceControl: Info fatal: C:/Program Files (x86)/Epic Games/4.13/Engine/Content/: 'C:/Program Files (x86)/Epic Games/4.13/Engine/Content/' is outside repository
+[2017.03.11-12.45.40:327][399]LogAIModule: Creating AISystem for world first
+[2017.03.11-12.45.40:486][399]LogSavePackage: Save=78.45ms
+[2017.03.11-12.45.40:486][399]LogSavePackage: Moving '../../../../../../Users/Josh/Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Saved/firstD1B7E7124722BE7E77267DA4AA657A82.tmp' to '../../../../../../Users/Josh/Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Content/first.umap'
+[2017.03.11-12.45.40:489][399]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Josh/Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Content/first.umap
+[2017.03.11-12.45.41:126][399]LogFileHelpers: Saving map 'first' took 7.660
+[2017.03.11-12.45.41:416][399]Cmd: MAP LOAD FILE="../../../../../../Users/Josh/Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Content/first.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.03.11-12.45.41:443][399]LightingResults: New page: Lighting Build
+[2017.03.11-12.45.41:444][399]LoadErrors: New page: Loading map: first.umap
+[2017.03.11-12.45.41:541][399]MapCheck: New page: Map Check
+[2017.03.11-12.45.41:541][399]LightingResults: New page: Lighting Build
+[2017.03.11-12.45.42:054][399]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.03.11-12.45.42:107][399]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.03.11-12.45.42:234][399]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 126.377ms to complete.
+[2017.03.11-12.45.42:248][399]LogFileHelpers: Loading map 'first' took 1.122
+[2017.03.11-12.55.30:715][731]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/first' took 0.016
+[2017.03.11-13.05.31:447][532]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/first' took 0.008
+[2017.03.11-13.15.32:000][333]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/first' took 0.016
+[2017.03.11-13.25.32:324][133]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/first' took 0.012
+[2017.03.11-13.35.32:957][934]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/first' took 0.008
+[2017.03.11-13.45.33:854][735]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/first' took 0.013
+[2017.03.11-13.55.34:414][536]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/first' took 0.010
+[2017.03.11-14.05.35:074][337]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/first' took 0.009
+[2017.03.11-14.15.35:488][137]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/first' took 0.011
+[2017.03.11-14.25.36:127][938]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/first' took 0.009
+[2017.03.11-14.35.36:809][738]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/first' took 0.012
+[2017.03.11-14.45.37:459][539]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/first' took 0.010
+[2017.03.11-14.49.05:300][ 40]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.03.11-14.49.06:372][155]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.03.11-14.49.08:710][314]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.03.11-14.49.12:050][634]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2017.03.11-14.49.21:552][734]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Rock)
+[2017.03.11-14.49.36:395][432]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair)
+[2017.03.11-14.49.44:025][315]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2017.03.11-14.49.47:753][713]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.03.11-14.49.53:037][326]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.03.11-14.49.53:938][433]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2017.03.11-14.49.54:777][531]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2017.03.11-14.49.55:659][635]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2017.03.11-14.49.59:388][ 61]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.03.11-14.50.00:663][213]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.03.11-14.50.02:380][399]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.03.11-14.50.06:646][907]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.03.11-14.50.08:100][ 48]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.03.11-14.50.09:627][230]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.03.11-14.50.11:522][454]Cmd: TRANSACTION UNDO
+[2017.03.11-14.50.11:542][454]LogEditorTransaction: Undo Clicking on Actors
+[2017.03.11-14.50.13:922][719]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.03.11-14.50.14:491][786]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2017.03.11-14.50.15:919][952]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.03.11-14.50.18:187][218]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2017.03.11-14.50.19:927][405]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.03.11-14.50.21:284][566]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.03.11-14.50.22:762][738]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.03.11-14.50.26:571][827]LogContentBrowser: Native class hierarchy updated for 'WebBrowser' in 0.0106 seconds. Added 0 classes and 0 folders.
+[2017.03.11-14.50.26:656][827]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2017.03.11-14.50.26:676][827]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2017.03.11-14.50.26:686][827]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2017.03.11-14.50.26:697][827]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2017.03.11-14.50.30:934][270]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.03.11-14.50.38:317][ 94]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair)
+[2017.03.11-14.51.15:067][226]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.03.11-14.51.15:796][284]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.03.11-14.51.28:139][621]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.03.11-14.51.29:545][779]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.03.11-14.52.33:123][758]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.03.11-14.52.37:233][227]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.03.11-14.52.37:247][227]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2017.03.11-14.53.13:851][363]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.03.11-14.53.18:610][882]Cmd: TRANSACTION UNDO
+[2017.03.11-14.53.18:610][882]LogEditorTransaction: Undo Clicking on Actors
+[2017.03.11-14.53.18:971][914]Cmd: TRANSACTION UNDO
+[2017.03.11-14.53.18:971][914]LogEditorTransaction: Undo Clicking on Actors
+[2017.03.11-14.53.19:207][934]Cmd: TRANSACTION UNDO
+[2017.03.11-14.53.19:207][934]LogEditorTransaction: Undo Move Actors
+[2017.03.11-14.53.19:461][963]Cmd: TRANSACTION UNDO
+[2017.03.11-14.53.19:461][963]LogEditorTransaction: Undo Move Actors
+[2017.03.11-14.53.19:675][987]Cmd: TRANSACTION UNDO
+[2017.03.11-14.53.19:675][987]LogEditorTransaction: Undo Move Actors
+[2017.03.11-14.53.19:893][ 12]Cmd: TRANSACTION UNDO
+[2017.03.11-14.53.19:893][ 12]LogEditorTransaction: Undo Move Actors
+[2017.03.11-14.53.20:087][ 34]Cmd: TRANSACTION UNDO
+[2017.03.11-14.53.20:087][ 34]LogEditorTransaction: Undo Move Actors
+[2017.03.11-14.53.20:288][ 57]Cmd: TRANSACTION UNDO
+[2017.03.11-14.53.20:288][ 57]LogEditorTransaction: Undo Move Actors
+[2017.03.11-14.53.20:531][ 84]Cmd: TRANSACTION UNDO
+[2017.03.11-14.53.20:531][ 84]LogEditorTransaction: Undo Move Actors
+[2017.03.11-14.53.20:740][108]Cmd: TRANSACTION UNDO
+[2017.03.11-14.53.20:740][108]LogEditorTransaction: Undo Move Actors
+[2017.03.11-14.53.20:960][133]Cmd: TRANSACTION UNDO
+[2017.03.11-14.53.20:961][133]LogEditorTransaction: Undo Move Actors
+[2017.03.11-14.53.21:212][162]Cmd: TRANSACTION UNDO
+[2017.03.11-14.53.21:212][162]LogEditorTransaction: Undo Move Actors
+[2017.03.11-14.53.21:445][189]Cmd: TRANSACTION UNDO
+[2017.03.11-14.53.21:445][189]LogEditorTransaction: Undo Move Actors
+[2017.03.11-14.53.21:650][212]Cmd: TRANSACTION UNDO
+[2017.03.11-14.53.21:650][212]LogEditorTransaction: Undo Move Actors
+[2017.03.11-14.53.21:864][237]Cmd: TRANSACTION UNDO
+[2017.03.11-14.53.21:864][237]LogEditorTransaction: Undo Move Actors
+[2017.03.11-14.53.22:132][267]Cmd: TRANSACTION UNDO
+[2017.03.11-14.53.22:132][267]LogEditorTransaction: Undo Clicking on Actors
+[2017.03.11-14.53.22:313][288]Cmd: TRANSACTION UNDO
+[2017.03.11-14.53.22:313][288]LogEditorTransaction: Undo Delete selection
+[2017.03.11-14.53.23:083][374]Cmd: TRANSACTION UNDO
+[2017.03.11-14.53.23:083][374]LogEditorTransaction: Undo Clicking on Actors
+[2017.03.11-14.53.23:305][393]Cmd: TRANSACTION UNDO
+[2017.03.11-14.53.23:306][393]LogEditorTransaction: Undo Clicking on Actors
+[2017.03.11-14.53.23:516][410]Cmd: TRANSACTION UNDO
+[2017.03.11-14.53.23:516][410]LogEditorTransaction: Undo Move Actors
+[2017.03.11-14.53.23:730][426]Cmd: TRANSACTION UNDO
+[2017.03.11-14.53.23:730][426]LogEditorTransaction: Undo Move Actors
+[2017.03.11-14.53.23:935][441]Cmd: TRANSACTION UNDO
+[2017.03.11-14.53.23:935][441]LogEditorTransaction: Undo Move Actors
+[2017.03.11-14.53.24:151][460]Cmd: TRANSACTION UNDO
+[2017.03.11-14.53.24:152][460]LogEditorTransaction: Undo Move Actors
+[2017.03.11-14.53.24:371][485]Cmd: TRANSACTION UNDO
+[2017.03.11-14.53.24:371][485]LogEditorTransaction: Undo Move Actors
+[2017.03.11-14.53.24:576][508]Cmd: TRANSACTION UNDO
+[2017.03.11-14.53.24:576][508]LogEditorTransaction: Undo Move Actors
+[2017.03.11-14.53.24:801][534]Cmd: TRANSACTION UNDO
+[2017.03.11-14.53.24:801][534]LogEditorTransaction: Undo Move Actors
+[2017.03.11-14.53.25:016][559]Cmd: TRANSACTION UNDO
+[2017.03.11-14.53.25:016][559]LogEditorTransaction: Undo Move Actors
+[2017.03.11-14.53.25:241][585]Cmd: TRANSACTION UNDO
+[2017.03.11-14.53.25:241][585]LogEditorTransaction: Undo Move Actors
+[2017.03.11-14.53.25:479][612]Cmd: TRANSACTION UNDO
+[2017.03.11-14.53.25:479][612]LogEditorTransaction: Undo Move Actors
+[2017.03.11-14.53.25:688][636]Cmd: TRANSACTION UNDO
+[2017.03.11-14.53.25:688][636]LogEditorTransaction: Undo Move Actors
+[2017.03.11-14.53.25:904][660]Cmd: TRANSACTION UNDO
+[2017.03.11-14.53.25:904][660]LogEditorTransaction: Undo Move Actors
+[2017.03.11-14.53.26:141][687]Cmd: TRANSACTION UNDO
+[2017.03.11-14.53.26:141][687]LogEditorTransaction: Undo Move Actors
+[2017.03.11-14.53.26:572][737]Cmd: TRANSACTION UNDO
+[2017.03.11-14.53.26:572][737]LogEditorTransaction: Undo Move Actors
+[2017.03.11-14.53.26:800][763]Cmd: TRANSACTION UNDO
+[2017.03.11-14.53.26:800][763]LogEditorTransaction: Undo Clicking on Actors
+[2017.03.11-14.53.27:023][786]Cmd: TRANSACTION UNDO
+[2017.03.11-14.53.27:023][786]LogEditorTransaction: Undo Clicking on Actors
+[2017.03.11-14.53.27:268][814]Cmd: TRANSACTION UNDO
+[2017.03.11-14.53.27:268][814]LogEditorTransaction: Undo Clicking on Actors
+[2017.03.11-14.53.27:491][838]Cmd: TRANSACTION UNDO
+[2017.03.11-14.53.27:491][838]LogEditorTransaction: Undo Move Actors
+[2017.03.11-14.53.27:720][864]Cmd: TRANSACTION UNDO
+[2017.03.11-14.53.27:720][864]LogEditorTransaction: Undo Move Actors
+[2017.03.11-14.53.28:003][895]Cmd: TRANSACTION UNDO
+[2017.03.11-14.53.28:004][895]LogEditorTransaction: Undo Move Actors
+[2017.03.11-14.53.28:293][928]Cmd: TRANSACTION UNDO
+[2017.03.11-14.53.28:293][928]LogEditorTransaction: Undo Move Actors
+[2017.03.11-14.53.28:602][963]Cmd: TRANSACTION UNDO
+[2017.03.11-14.53.28:602][963]LogEditorTransaction: Undo Move Actors
+[2017.03.11-14.53.28:856][992]Cmd: TRANSACTION UNDO
+[2017.03.11-14.53.28:856][992]LogEditorTransaction: Undo Clicking on Actors
+[2017.03.11-14.53.29:488][ 53]Cmd: TRANSACTION UNDO
+[2017.03.11-14.53.29:488][ 53]LogEditorTransaction: Undo Clicking on Actors
+[2017.03.11-14.53.29:957][ 93]Cmd: TRANSACTION UNDO
+[2017.03.11-14.53.29:957][ 93]LogEditorTransaction: Undo Move Actors
+[2017.03.11-14.53.30:208][122]Cmd: TRANSACTION UNDO
+[2017.03.11-14.53.30:208][122]LogEditorTransaction: Undo Move Actors
+[2017.03.11-14.53.30:433][148]Cmd: TRANSACTION UNDO
+[2017.03.11-14.53.30:433][148]LogEditorTransaction: Undo Move Actors
+[2017.03.11-14.53.30:649][173]Cmd: TRANSACTION UNDO
+[2017.03.11-14.53.30:649][173]LogEditorTransaction: Undo Move Actors
+[2017.03.11-14.53.30:871][198]Cmd: TRANSACTION UNDO
+[2017.03.11-14.53.30:871][198]LogEditorTransaction: Undo Move Actors
+[2017.03.11-14.53.31:095][224]Cmd: TRANSACTION UNDO
+[2017.03.11-14.53.31:095][224]LogEditorTransaction: Undo Move Actors
+[2017.03.11-14.53.32:353][371]Cmd: TRANSACTION UNDO
+[2017.03.11-14.53.32:354][371]LogEditorTransaction: Undo Move Actors
+[2017.03.11-14.53.32:572][396]Cmd: TRANSACTION UNDO
+[2017.03.11-14.53.32:572][396]LogEditorTransaction: Undo Move Actors
+[2017.03.11-14.53.32:769][419]Cmd: TRANSACTION UNDO
+[2017.03.11-14.53.32:769][419]LogEditorTransaction: Undo Move Actors
+[2017.03.11-14.53.32:993][445]Cmd: TRANSACTION UNDO
+[2017.03.11-14.53.32:993][445]LogEditorTransaction: Undo Move Actors
+[2017.03.11-14.53.33:231][473]Cmd: TRANSACTION UNDO
+[2017.03.11-14.53.33:232][473]LogEditorTransaction: Undo Move Actors
+[2017.03.11-14.53.33:480][502]Cmd: TRANSACTION UNDO
+[2017.03.11-14.53.33:480][502]LogEditorTransaction: Undo Move Actors
+[2017.03.11-14.53.33:717][529]Cmd: TRANSACTION UNDO
+[2017.03.11-14.53.33:717][529]LogEditorTransaction: Undo Move Actors
+[2017.03.11-14.53.33:927][552]Cmd: TRANSACTION UNDO
+[2017.03.11-14.53.33:927][552]LogEditorTransaction: Undo Move Actors
+[2017.03.11-14.53.34:161][579]Cmd: TRANSACTION UNDO
+[2017.03.11-14.53.34:161][579]LogEditorTransaction: Undo Clicking on Actors
+[2017.03.11-14.53.34:416][607]Cmd: TRANSACTION UNDO
+[2017.03.11-14.53.34:416][607]LogEditorTransaction: Undo Move Actors
+[2017.03.11-14.53.34:670][636]Cmd: TRANSACTION UNDO
+[2017.03.11-14.53.34:670][636]LogEditorTransaction: Undo Clicking on Actors
+[2017.03.11-14.53.36:547][833]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair)
+[2017.03.11-14.54.20:240][775]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2017.03.11-14.54.22:736][ 44]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.03.11-14.54.24:215][215]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.03.11-14.54.25:697][389]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.03.11-14.54.27:336][557]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.03.11-14.54.29:746][836]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2017.03.11-14.54.31:683][ 61]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.03.11-14.54.53:253][544]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2017.03.11-14.55.08:952][979]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2017.03.11-14.55.09:927][ 61]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.03.11-14.55.14:833][357]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.11-14.55.14:834][357]PIE: New page: PIE session: first (11 Mar 2017 14:55:14)
+[2017.03.11-14.55.14:851][357]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_first
+[2017.03.11-14.55.14:856][357]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004789s)
+[2017.03.11-14.55.14:857][357]LogAIModule: Creating AISystem for world first
+[2017.03.11-14.55.14:858][357]LogPlayLevel: PIE: World Init took: (0.001447s)
+[2017.03.11-14.55.14:858][357]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/first.first to /Game/UEDPIE_0_first.first (0.024445s)
+[2017.03.11-14.55.15:017][357]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.11-14.55.15:044][357]LogInit: FAudioDevice initialized.
+[2017.03.11-14.55.15:076][357]LogWorld: Game class is 'Building_EscapeGameMode'
+[2017.03.11-14.55.15:079][357]LogWorld: Bringing World /Game/UEDPIE_0_first.first up for play (max tick rate 0) at 2017.03.11-14.55.15
+[2017.03.11-14.55.15:080][357]LogWorld: Bringing up level for play took: 0.002661
+[2017.03.11-14.55.15:081][357]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.11-14.55.15:081][357]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.11-14.55.15:081][357]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.11-14.55.15:082][357]LogTemp:Warning: Position report reporting on Chair.
+[2017.03.11-14.55.15:082][357]LogTemp:Warning: Position report reporting on Chair.
+[2017.03.11-14.55.15:082][357]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.11-14.55.15:083][357]PIE: Info Play in editor start time for /Game/UEDPIE_0_first 0.053
+[2017.03.11-14.55.26:626][671]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair)
+[2017.03.11-14.55.52:574][602]Cmd: TRANSACTION UNDO
+[2017.03.11-14.55.52:574][602]LogEditorTransaction: Undo Scale Actors
+[2017.03.11-14.56.05:479][ 30]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.11-14.56.05:479][ 30]PIE: New page: PIE session: first (11 Mar 2017 14:56:05)
+[2017.03.11-14.56.05:480][ 30]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_first
+[2017.03.11-14.56.05:501][ 30]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001879s)
+[2017.03.11-14.56.05:501][ 30]LogAIModule: Creating AISystem for world first
+[2017.03.11-14.56.05:502][ 30]LogPlayLevel: PIE: World Init took: (0.001048s)
+[2017.03.11-14.56.05:502][ 30]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/first.first to /Game/UEDPIE_0_first.first (0.022509s)
+[2017.03.11-14.56.05:521][ 30]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.11-14.56.05:532][ 30]LogInit: FAudioDevice initialized.
+[2017.03.11-14.56.05:561][ 30]LogWorld: Game class is 'Building_EscapeGameMode'
+[2017.03.11-14.56.05:564][ 30]LogWorld: Bringing World /Game/UEDPIE_0_first.first up for play (max tick rate 0) at 2017.03.11-14.56.05
+[2017.03.11-14.56.05:564][ 30]LogWorld: Bringing up level for play took: 0.002232
+[2017.03.11-14.56.05:565][ 30]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.11-14.56.05:565][ 30]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.11-14.56.05:565][ 30]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.11-14.56.05:566][ 30]LogTemp:Warning: Position report reporting on Chair.
+[2017.03.11-14.56.05:566][ 30]LogTemp:Warning: Position report reporting on Chair.
+[2017.03.11-14.56.05:566][ 30]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.11-14.56.05:566][ 30]PIE: Info Play in editor start time for /Game/UEDPIE_0_first 0.536
+[2017.03.11-14.56.51:418][317]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.03.11-14.56.55:128][713]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.03.11-14.57.23:890][971]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.03.11-14.57.27:795][397]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair)
+[2017.03.11-14.57.41:408][938]Cmd: TRANSACTION UNDO
+[2017.03.11-14.57.41:408][938]LogEditorTransaction: Undo Scale Actors
+[2017.03.11-14.57.42:750][ 84]Cmd: TRANSACTION UNDO
+[2017.03.11-14.57.42:750][ 84]LogEditorTransaction: Undo Scale Actors
+[2017.03.11-14.57.43:061][120]Cmd: TRANSACTION UNDO
+[2017.03.11-14.57.43:061][120]LogEditorTransaction: Undo Clicking on Actors
+[2017.03.11-14.57.43:287][142]Cmd: TRANSACTION UNDO
+[2017.03.11-14.57.43:287][142]LogEditorTransaction: Undo Clicking on Actors
+[2017.03.11-14.57.43:888][208]Cmd: TRANSACTION UNDO
+[2017.03.11-14.57.43:888][208]LogEditorTransaction: Undo Move Actors
+[2017.03.11-14.57.44:457][261]Cmd: TRANSACTION UNDO
+[2017.03.11-14.57.44:457][261]LogEditorTransaction: Undo Move Actors
+[2017.03.11-14.57.45:571][378]Cmd: TRANSACTION UNDO
+[2017.03.11-14.57.45:571][378]LogEditorTransaction: Undo Move Actors
+[2017.03.11-14.57.47:004][544]Cmd: TRANSACTION REDO
+[2017.03.11-14.57.47:019][544]LogEditorTransaction: Redo Move Actors
+[2017.03.11-14.57.47:641][615]Cmd: TRANSACTION REDO
+[2017.03.11-14.57.47:641][615]LogEditorTransaction: Redo Move Actors
+[2017.03.11-14.57.49:593][845]Cmd: TRANSACTION UNDO
+[2017.03.11-14.57.49:593][845]LogEditorTransaction: Undo Move Actors
+[2017.03.11-14.57.52:812][193]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.03.11-14.58.37:113][240]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Chair)
+[2017.03.11-14.58.58:696][397]LogVSAccessor:Warning: Couldn't goto line number '0' in 'C:/Users/Josh/Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Source/Building_Escape/PositionReport.h'
+[2017.03.11-14.58.58:786][397]LogVSAccessor:Warning: Couldn't goto line number '0' in 'C:/Users/Josh/Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Source/Building_Escape/PositionReport.cpp'
+[2017.03.11-14.59.27:077][473]LogSavePackage: Save=23.36ms
+[2017.03.11-14.59.27:077][473]LogSavePackage: Moving '../../../../../../Users/Josh/Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Saved/first_Auto2E93D87F6449E38FF9F5EAF9DE0E06848.tmp' to '../../../../../../Users/Josh/Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Saved/Autosaves/Game/first_Auto2.umap'
+[2017.03.11-14.59.27:125][473]LogSavePackage:Display: Finished SavePackage ../../../../../../Users/Josh/Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Saved/Autosaves/Game/first_Auto2.umap
+[2017.03.11-14.59.27:129][473]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/first' took 0.801
+[2017.03.11-14.59.27:129][473]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.801
+[2017.03.11-15.05.01:400][668]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.11-15.05.01:401][668]PIE: New page: PIE session: first (11 Mar 2017 15:05:01)
+[2017.03.11-15.05.01:401][668]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_first
+[2017.03.11-15.05.01:413][668]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011676s)
+[2017.03.11-15.05.01:416][668]LogAIModule: Creating AISystem for world first
+[2017.03.11-15.05.01:418][668]LogPlayLevel: PIE: World Init took: (0.004184s)
+[2017.03.11-15.05.01:418][668]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/first.first to /Game/UEDPIE_0_first.first (0.016507s)
+[2017.03.11-15.05.01:481][668]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.11-15.05.01:517][668]LogInit: FAudioDevice initialized.
+[2017.03.11-15.05.01:556][668]LogWorld: Game class is 'Building_EscapeGameMode'
+[2017.03.11-15.05.01:560][668]LogWorld: Bringing World /Game/UEDPIE_0_first.first up for play (max tick rate 0) at 2017.03.11-15.05.01
+[2017.03.11-15.05.01:561][668]LogWorld: Bringing up level for play took: 0.003374
+[2017.03.11-15.05.01:563][668]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.11-15.05.01:563][668]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.03.11-15.05.01:563][668]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.03.11-15.05.01:564][668]LogTemp:Warning: Position report reporting on Chair.
+[2017.03.11-15.05.01:564][668]LogTemp:Warning: Position report reporting on Chair.
+[2017.03.11-15.05.01:564][668]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.03.11-15.05.01:565][668]PIE: Info Play in editor start time for /Game/UEDPIE_0_first 0.534
+[2017.03.11-15.05.17:639][514]Recompiling Building_Escape...
+[2017.03.11-15.05.17:639][514]Launching UnrealBuildTool... [C:/Program Files (x86)/Epic Games/4.13/Engine/Binaries/DotNET/UnrealBuildTool.exe Building_Escape -ModuleWithSuffix Building_Escape 7510 Win64 Development -editorrecompile -canskiplink "C:/Users/Josh/Documents/Unreal Projects/repos/01_building_escape/Building_Escape/Building_Escape.uproject"  -2015]
+[2017.03.11-15.05.18:052][514]Warning: Starting HotReload took  0.4s.
+[2017.03.11-15.05.48:769][354]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.03.11-15.07.19:874][878]CompilerResultsLog: New page: Compilation - 11 Mar 2017 15:07:19
+[2017.03.11-15.07.19:875][878]CompilerResultsLog: Info Creating makefile for hot reloading Building_Escape (working set of source files changed)
+[2017.03.11-15.07.19:875][878]CompilerResultsLog: Info Compiling game modules for hot reload
+[2017.03.11-15.07.19:875][878]CompilerResultsLog: Info Parsing headers for Building_EscapeEditor
+[2017.03.11-15.07.19:875][878]CompilerResultsLog: Info   Running UnrealHeaderTool "C:\Users\Josh\Documents\Unreal Projects\repos\01_building_escape\Building_Escape\Building_Escape.uproject" "C:\Users\Josh\Documents\Unreal Projects\repos\01_building_escape\Building_Escape\Intermediate\Build\Win64\Building_EscapeEditor\Development\Building_EscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+[2017.03.11-15.07.19:875][878]CompilerResultsLog: Info Reflection code generated for Building_EscapeEditor in 5.6782972 seconds
+[2017.03.11-15.07.19:906][878]CompilerResultsLog: Info Performing 2 actions (4 in parallel)
+[2017.03.11-15.07.19:906][878]CompilerResultsLog: Info PositionReport.cpp
+[2017.03.11-15.07.19:906][878]CompilerResultsLog: Info [2/2] Link UE4Editor-Building_Escape-7510.dll
+[2017.03.11-15.07.19:906][878]CompilerResultsLog: Info    Creating library C:\Users\Josh\Documents\Unreal Projects\repos\01_building_escape\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Building_Escape-7510.lib and object C:\Users\Josh\Documents\Unreal Projects\repos\01_building_escape\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Building_Escape-7510.exp
+[2017.03.11-15.07.19:907][878]CompilerResultsLog: Info Total build time: 118.72 seconds
+[2017.03.11-15.07.19:907][878]LogMainFrame: MainFrame: Module compiling took 122.272 seconds
+[2017.03.11-15.07.20:015][878]LogContentBrowser: Native class hierarchy updated for 'Building_Escape' in 0.0023 seconds. Added 2 classes and 2 folders.
+[2017.03.11-15.07.20:017][878]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2017.03.11-15.07.20:286][878]LogContentBrowser: Native class hierarchy populated in 0.0833 seconds. Added 2145 classes and 421 folders.
+[2017.03.11-15.07.20:327][878]Display: HotReload took 122.7s.
+[2017.03.11-15.07.23:839][893]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.03.11-15.07.28:612][342]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.03.11-15.07.28:612][342]PIE: New page: PIE session: first (11 Mar 2017 15:07:28)
+[2017.03.11-15.07.28:612][342]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_first
+[2017.03.11-15.07.28:614][342]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002140s)
+[2017.03.11-15.07.28:615][342]LogAIModule: Creating AISystem for world first
+[2017.03.11-15.07.28:615][342]LogPlayLevel: PIE: World Init took: (0.000952s)
+[2017.03.11-15.07.28:615][342]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/first.first to /Game/UEDPIE_0_first.first (0.003501s)
+[2017.03.11-15.07.28:656][342]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.03.11-15.07.28:677][342]LogInit: FAudioDevice initialized.
+[2017.03.11-15.07.28:705][342]LogWorld: Game class is 'Building_EscapeGameMode'
+[2017.03.11-15.07.28:708][342]LogWorld: Bringing World /Game/UEDPIE_0_first.first up for play (max tick rate 0) at 2017.03.11-15.07.28
+[2017.03.11-15.07.28:709][342]LogWorld: Bringing up level for play took: 0.002
