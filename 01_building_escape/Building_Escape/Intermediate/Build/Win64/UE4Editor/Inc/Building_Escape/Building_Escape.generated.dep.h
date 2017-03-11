@@ -8,6 +8,9 @@
 #ifndef BUILDING_ESCAPE_Building_EscapeGameMode_generated_h
 	#include "Building_EscapeGameMode.h"
 #endif
+#ifndef BUILDING_ESCAPE_OpenDoor_generated_h
+	#include "OpenDoor.h"
+#endif
 #ifndef BUILDING_ESCAPE_PositionReport_generated_h
 	#include "PositionReport.h"
 #endif

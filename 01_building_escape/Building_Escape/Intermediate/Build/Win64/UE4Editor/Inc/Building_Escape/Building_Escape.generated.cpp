@@ -13,6 +13,10 @@ void EmptyLinkFunctionForGeneratedCode1Building_Escape() {}
 	{
 	}
 	IMPLEMENT_CLASS(ABuilding_EscapeGameMode, 3359748798);
+	void UOpenDoor::StaticRegisterNativesUOpenDoor()
+	{
+	}
+	IMPLEMENT_CLASS(UOpenDoor, 3153695761);
 	void UPositionReport::StaticRegisterNativesUPositionReport()
 	{
 	}
@@ -24,6 +28,8 @@ void EmptyLinkFunctionForGeneratedCode1Building_Escape() {}
 
 	BUILDING_ESCAPE_API class UClass* Z_Construct_UClass_ABuilding_EscapeGameMode_NoRegister();
 	BUILDING_ESCAPE_API class UClass* Z_Construct_UClass_ABuilding_EscapeGameMode();
+	BUILDING_ESCAPE_API class UClass* Z_Construct_UClass_UOpenDoor_NoRegister();
+	BUILDING_ESCAPE_API class UClass* Z_Construct_UClass_UOpenDoor();
 	BUILDING_ESCAPE_API class UClass* Z_Construct_UClass_UPositionReport_NoRegister();
 	BUILDING_ESCAPE_API class UClass* Z_Construct_UClass_UPositionReport();
 	BUILDING_ESCAPE_API class UPackage* Z_Construct_UPackage__Script_Building_Escape();
@@ -61,6 +67,40 @@ void EmptyLinkFunctionForGeneratedCode1Building_Escape() {}
 	}
 	static FCompiledInDefer Z_CompiledInDefer_UClass_ABuilding_EscapeGameMode(Z_Construct_UClass_ABuilding_EscapeGameMode, &ABuilding_EscapeGameMode::StaticClass, TEXT("ABuilding_EscapeGameMode"), false, nullptr, nullptr, nullptr);
 	DEFINE_VTABLE_PTR_HELPER_CTOR(ABuilding_EscapeGameMode);
+	UClass* Z_Construct_UClass_UOpenDoor_NoRegister()
+	{
+		return UOpenDoor::StaticClass();
+	}
+	UClass* Z_Construct_UClass_UOpenDoor()
+	{
+		static UClass* OuterClass = NULL;
+		if (!OuterClass)
+		{
+			Z_Construct_UClass_UActorComponent();
+			Z_Construct_UPackage__Script_Building_Escape();
+			OuterClass = UOpenDoor::StaticClass();
+			if (!(OuterClass->ClassFlags & CLASS_Constructed))
+			{
+				UObjectForceRegistration(OuterClass);
+				OuterClass->ClassFlags |= 0x20B00080;
+
+
+				OuterClass->StaticLink();
+#if WITH_METADATA
+				UMetaData* MetaData = OuterClass->GetOutermost()->GetMetaData();
+				MetaData->SetValue(OuterClass, TEXT("BlueprintSpawnableComponent"), TEXT(""));
+				MetaData->SetValue(OuterClass, TEXT("ClassGroupNames"), TEXT("Custom"));
+				MetaData->SetValue(OuterClass, TEXT("HideCategories"), TEXT("ComponentReplication"));
+				MetaData->SetValue(OuterClass, TEXT("IncludePath"), TEXT("OpenDoor.h"));
+				MetaData->SetValue(OuterClass, TEXT("ModuleRelativePath"), TEXT("OpenDoor.h"));
+#endif
+			}
+		}
+		check(OuterClass->GetClass());
+		return OuterClass;
+	}
+	static FCompiledInDefer Z_CompiledInDefer_UClass_UOpenDoor(Z_Construct_UClass_UOpenDoor, &UOpenDoor::StaticClass, TEXT("UOpenDoor"), false, nullptr, nullptr, nullptr);
+	DEFINE_VTABLE_PTR_HELPER_CTOR(UOpenDoor);
 	UClass* Z_Construct_UClass_UPositionReport_NoRegister()
 	{
 		return UPositionReport::StaticClass();
@@ -103,8 +143,8 @@ void EmptyLinkFunctionForGeneratedCode1Building_Escape() {}
 			ReturnPackage = CastChecked<UPackage>(StaticFindObjectFast(UPackage::StaticClass(), NULL, FName(TEXT("/Script/Building_Escape")), false, false));
 			ReturnPackage->SetPackageFlags(PKG_CompiledIn | 0x00000000);
 			FGuid Guid;
-			Guid.A = 0xC14B40D3;
-			Guid.B = 0xD9AEA565;
+			Guid.A = 0x7245C602;
+			Guid.B = 0xEE8CBB97;
 			Guid.C = 0x00000000;
 			Guid.D = 0x00000000;
 			ReturnPackage->SetGuid(Guid);
