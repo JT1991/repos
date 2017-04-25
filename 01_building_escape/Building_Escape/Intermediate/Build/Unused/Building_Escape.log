@@ -1,10 +1,11 @@
-﻿  Creating makefile for hot reloading Building_EscapeEditor (working set of source files changed)
+﻿  Cleaning Building_EscapeEditor Binaries...
   Compiling game modules for hot reload
-  Parsing headers for Building_EscapeEditor
-    Running UnrealHeaderTool "C:\Users\Josh\Documents\Unreal Projects\repos\01_building_escape\Building_Escape\Building_Escape.uproject" "C:\Users\Josh\Documents\Unreal Projects\repos\01_building_escape\Building_Escape\Intermediate\Build\Win64\Building_EscapeEditor\Development\Building_EscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
-  Reflection code generated for Building_EscapeEditor in 4.5511933 seconds
-  Performing 2 actions (4 in parallel)
-  OpenDoor.cpp
-  [2/2] Link UE4Editor-Building_Escape-1592.dll
-     Creating library C:\Users\Josh\Documents\Unreal Projects\repos\01_building_escape\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Building_Escape-1592.lib and object C:\Users\Josh\Documents\Unreal Projects\repos\01_building_escape\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Building_Escape-1592.exp
-  Total build time: 74.51 seconds
+EXEC : error : System.UnauthorizedAccessException: Access to the path 'C:\Users\Josh\Documents\Unreal Projects\repos\01_building_escape\Building_Escape\Binaries\Win64\UE4Editor-Building_Escape-6494.dll' is denied.
+     at UnrealBuildTool.UEBuildTarget.CleanFile(String Filename)
+     at UnrealBuildTool.UEBuildTarget.CleanTarget(BuildManifest Manifest)
+     at UnrealBuildTool.UEBuildTarget.GenerateManifest()
+     at UnrealBuildTool.UEBuildTarget.Build(UEToolChain TargetToolChain, List`1& OutputItems, List`1& UObjectModules, String& EULAViolationWarning)
+     at UnrealBuildTool.UnrealBuildTool.RunUBT(String[] Arguments, FileReference ProjectFile)
+  Creating makefile for hot reloading Building_EscapeEditor (modules to compile have changed)
+  Compiling game modules for hot reload
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.MakeFile.Targets(42,5): warning MSB5021: "cmd" and its child processes are being terminated in order to cancel the build.

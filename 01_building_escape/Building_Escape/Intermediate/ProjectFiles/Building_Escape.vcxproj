@@ -570,8 +570,10 @@
     <ClInclude Include="..\..\Source\Building_Escape\Building_Escape.h" />
     <ClCompile Include="..\..\Source\Building_Escape\Building_EscapeGameMode.cpp" />
     <ClInclude Include="..\..\Source\Building_Escape\Building_EscapeGameMode.h" />
+    <ClCompile Include="..\..\Source\Building_Escape\Grabber.cpp" />
     <ClCompile Include="..\..\Source\Building_Escape\OpenDoor.cpp" />
     <ClCompile Include="..\..\Source\Building_Escape\PositionReport.cpp" />
+    <ClInclude Include="..\..\Source\Building_Escape\Grabber.h" />
     <ClInclude Include="..\..\Source\Building_Escape\OpenDoor.h" />
     <ClInclude Include="..\..\Source\Building_Escape\PositionReport.h" />
   </ItemGroup>

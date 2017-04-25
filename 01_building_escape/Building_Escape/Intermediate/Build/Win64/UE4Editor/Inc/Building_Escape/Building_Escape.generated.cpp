@@ -13,10 +13,14 @@ void EmptyLinkFunctionForGeneratedCode1Building_Escape() {}
 	{
 	}
 	IMPLEMENT_CLASS(ABuilding_EscapeGameMode, 3359748798);
+	void UGrabber::StaticRegisterNativesUGrabber()
+	{
+	}
+	IMPLEMENT_CLASS(UGrabber, 2602018670);
 	void UOpenDoor::StaticRegisterNativesUOpenDoor()
 	{
 	}
-	IMPLEMENT_CLASS(UOpenDoor, 3153695761);
+	IMPLEMENT_CLASS(UOpenDoor, 361464020);
 	void UPositionReport::StaticRegisterNativesUPositionReport()
 	{
 	}
@@ -25,9 +29,13 @@ void EmptyLinkFunctionForGeneratedCode1Building_Escape() {}
 // Cross Module References
 	ENGINE_API class UClass* Z_Construct_UClass_AGameMode();
 	ENGINE_API class UClass* Z_Construct_UClass_UActorComponent();
+	ENGINE_API class UClass* Z_Construct_UClass_ATriggerVolume_NoRegister();
 
 	BUILDING_ESCAPE_API class UClass* Z_Construct_UClass_ABuilding_EscapeGameMode_NoRegister();
 	BUILDING_ESCAPE_API class UClass* Z_Construct_UClass_ABuilding_EscapeGameMode();
+	BUILDING_ESCAPE_API class UClass* Z_Construct_UClass_UGrabber_NoRegister();
+	BUILDING_ESCAPE_API class UClass* Z_Construct_UClass_UGrabber();
+	BUILDING_ESCAPE_API class UFunction* Z_Construct_UDelegateFunction_Building_Escape_DoorEvent__DelegateSignature();
 	BUILDING_ESCAPE_API class UClass* Z_Construct_UClass_UOpenDoor_NoRegister();
 	BUILDING_ESCAPE_API class UClass* Z_Construct_UClass_UOpenDoor();
 	BUILDING_ESCAPE_API class UClass* Z_Construct_UClass_UPositionReport_NoRegister();
@@ -67,6 +75,56 @@ void EmptyLinkFunctionForGeneratedCode1Building_Escape() {}
 	}
 	static FCompiledInDefer Z_CompiledInDefer_UClass_ABuilding_EscapeGameMode(Z_Construct_UClass_ABuilding_EscapeGameMode, &ABuilding_EscapeGameMode::StaticClass, TEXT("ABuilding_EscapeGameMode"), false, nullptr, nullptr, nullptr);
 	DEFINE_VTABLE_PTR_HELPER_CTOR(ABuilding_EscapeGameMode);
+	UClass* Z_Construct_UClass_UGrabber_NoRegister()
+	{
+		return UGrabber::StaticClass();
+	}
+	UClass* Z_Construct_UClass_UGrabber()
+	{
+		static UClass* OuterClass = NULL;
+		if (!OuterClass)
+		{
+			Z_Construct_UClass_UActorComponent();
+			Z_Construct_UPackage__Script_Building_Escape();
+			OuterClass = UGrabber::StaticClass();
+			if (!(OuterClass->ClassFlags & CLASS_Constructed))
+			{
+				UObjectForceRegistration(OuterClass);
+				OuterClass->ClassFlags |= 0x20B00080;
+
+
+				OuterClass->StaticLink();
+#if WITH_METADATA
+				UMetaData* MetaData = OuterClass->GetOutermost()->GetMetaData();
+				MetaData->SetValue(OuterClass, TEXT("BlueprintSpawnableComponent"), TEXT(""));
+				MetaData->SetValue(OuterClass, TEXT("ClassGroupNames"), TEXT("Custom"));
+				MetaData->SetValue(OuterClass, TEXT("HideCategories"), TEXT("ComponentReplication"));
+				MetaData->SetValue(OuterClass, TEXT("IncludePath"), TEXT("Grabber.h"));
+				MetaData->SetValue(OuterClass, TEXT("ModuleRelativePath"), TEXT("Grabber.h"));
+#endif
+			}
+		}
+		check(OuterClass->GetClass());
+		return OuterClass;
+	}
+	static FCompiledInDefer Z_CompiledInDefer_UClass_UGrabber(Z_Construct_UClass_UGrabber, &UGrabber::StaticClass, TEXT("UGrabber"), false, nullptr, nullptr, nullptr);
+	DEFINE_VTABLE_PTR_HELPER_CTOR(UGrabber);
+	UFunction* Z_Construct_UDelegateFunction_Building_Escape_DoorEvent__DelegateSignature()
+	{
+		UObject* Outer=Z_Construct_UPackage__Script_Building_Escape();
+		static UFunction* ReturnFunction = NULL;
+		if (!ReturnFunction)
+		{
+			ReturnFunction = new(EC_InternalUseOnlyConstructor, Outer, TEXT("DoorEvent__DelegateSignature"), RF_Public|RF_Transient|RF_MarkAsNative) UDelegateFunction(FObjectInitializer(), NULL, 0x00130000, 65535);
+			ReturnFunction->Bind();
+			ReturnFunction->StaticLink();
+#if WITH_METADATA
+			UMetaData* MetaData = ReturnFunction->GetOutermost()->GetMetaData();
+			MetaData->SetValue(ReturnFunction, TEXT("ModuleRelativePath"), TEXT("OpenDoor.h"));
+#endif
+		}
+		return ReturnFunction;
+	}
 	UClass* Z_Construct_UClass_UOpenDoor_NoRegister()
 	{
 		return UOpenDoor::StaticClass();
@@ -85,6 +143,12 @@ void EmptyLinkFunctionForGeneratedCode1Building_Escape() {}
 				OuterClass->ClassFlags |= 0x20B00080;
 
 
+PRAGMA_DISABLE_DEPRECATION_WARNINGS
+				UProperty* NewProp_TriggerMass = new(EC_InternalUseOnlyConstructor, OuterClass, TEXT("TriggerMass"), RF_Public|RF_Transient|RF_MarkAsNative) UFloatProperty(CPP_PROPERTY_BASE(TriggerMass, UOpenDoor), 0x0040000000000001);
+				UProperty* NewProp_PressurePlate = new(EC_InternalUseOnlyConstructor, OuterClass, TEXT("PressurePlate"), RF_Public|RF_Transient|RF_MarkAsNative) UObjectProperty(CPP_PROPERTY_BASE(PressurePlate, UOpenDoor), 0x0040000000000001, Z_Construct_UClass_ATriggerVolume_NoRegister());
+				UProperty* NewProp_OnClose = new(EC_InternalUseOnlyConstructor, OuterClass, TEXT("OnClose"), RF_Public|RF_Transient|RF_MarkAsNative) UMulticastDelegateProperty(CPP_PROPERTY_BASE(OnClose, UOpenDoor), 0x0010000010080000, Z_Construct_UDelegateFunction_Building_Escape_DoorEvent__DelegateSignature());
+				UProperty* NewProp_OnOpen = new(EC_InternalUseOnlyConstructor, OuterClass, TEXT("OnOpen"), RF_Public|RF_Transient|RF_MarkAsNative) UMulticastDelegateProperty(CPP_PROPERTY_BASE(OnOpen, UOpenDoor), 0x0010000010080000, Z_Construct_UDelegateFunction_Building_Escape_DoorEvent__DelegateSignature());
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
 				OuterClass->StaticLink();
 #if WITH_METADATA
 				UMetaData* MetaData = OuterClass->GetOutermost()->GetMetaData();
@@ -93,6 +157,12 @@ void EmptyLinkFunctionForGeneratedCode1Building_Escape() {}
 				MetaData->SetValue(OuterClass, TEXT("HideCategories"), TEXT("ComponentReplication"));
 				MetaData->SetValue(OuterClass, TEXT("IncludePath"), TEXT("OpenDoor.h"));
 				MetaData->SetValue(OuterClass, TEXT("ModuleRelativePath"), TEXT("OpenDoor.h"));
+				MetaData->SetValue(NewProp_TriggerMass, TEXT("Category"), TEXT("OpenDoor"));
+				MetaData->SetValue(NewProp_TriggerMass, TEXT("ModuleRelativePath"), TEXT("OpenDoor.h"));
+				MetaData->SetValue(NewProp_PressurePlate, TEXT("Category"), TEXT("OpenDoor"));
+				MetaData->SetValue(NewProp_PressurePlate, TEXT("ModuleRelativePath"), TEXT("OpenDoor.h"));
+				MetaData->SetValue(NewProp_OnClose, TEXT("ModuleRelativePath"), TEXT("OpenDoor.h"));
+				MetaData->SetValue(NewProp_OnOpen, TEXT("ModuleRelativePath"), TEXT("OpenDoor.h"));
 #endif
 			}
 		}
@@ -143,12 +213,13 @@ void EmptyLinkFunctionForGeneratedCode1Building_Escape() {}
 			ReturnPackage = CastChecked<UPackage>(StaticFindObjectFast(UPackage::StaticClass(), NULL, FName(TEXT("/Script/Building_Escape")), false, false));
 			ReturnPackage->SetPackageFlags(PKG_CompiledIn | 0x00000000);
 			FGuid Guid;
-			Guid.A = 0x7245C602;
-			Guid.B = 0xEE8CBB97;
+			Guid.A = 0xDA41BED3;
+			Guid.B = 0x0B18DAA1;
 			Guid.C = 0x00000000;
 			Guid.D = 0x00000000;
 			ReturnPackage->SetGuid(Guid);
 
+			Z_Construct_UDelegateFunction_Building_Escape_DoorEvent__DelegateSignature();
 		}
 		return ReturnPackage;
 	}
