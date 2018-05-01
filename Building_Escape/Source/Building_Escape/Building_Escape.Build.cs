@@ -4,7 +4,7 @@ using UnrealBuildTool;
 
 public class Building_Escape : ModuleRules
 {
-	public Building_Escape(TargetInfo Target)
+	public Building_Escape(ReadOnlyTargetRules Target) : base (Target)
 	{
 		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore" });
 

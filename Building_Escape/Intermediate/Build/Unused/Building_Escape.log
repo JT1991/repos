@@ -1,0 +1,36 @@
+﻿  Cleaning Building_EscapeEditor Binaries...
+  Using 'git status' to determine working set for adaptive non-unity build.
+  Using 'git status' to determine working set for adaptive non-unity build.
+  Creating makefile for Building_EscapeEditor (no existing makefile)
+  Performing full C++ include scan (no include cache file)
+  Parsing headers for Building_EscapeEditor
+    Running UnrealHeaderTool "C:\Users\Josh\Documents\Unreal Projects\repos\01_building_escape\Building_Escape\Building_Escape.uproject" "C:\Users\Josh\Documents\Unreal Projects\repos\01_building_escape\Building_Escape\Intermediate\Build\Win64\Building_EscapeEditor\Development\Building_EscapeEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -installed
+  Reflection code generated for Building_EscapeEditor in 10.3723072 seconds
+  Performing 15 actions (4 in parallel)
+  [2/15] Resource ModuleVersionResource.rc.inl
+  [3/15] Resource PCLaunch.rc
+  PCH.Building_Escape.cpp
+  Building_EscapeGameMode.cpp
+  Building_Escape.cpp
+  OpenDoor.cpp
+  Grabber.cpp
+C:\Users\Josh\Documents\Unreal Projects\repos\01_building_escape\Building_Escape\Source\Building_Escape\Grabber.cpp(12): warning C4996: 'UActorComponent::bWantsBeginPlay': bWantsBeginPlay was inconsistently enforced and is now unused. BeginPlay will now always be called for Actor Components. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.C:\Users\Josh\Documents\Unreal Projects\repos\01_building_escape\Building_Escape\Source\Building_Escape\OpenDoor.cpp(15): warning C4996: 'UActorComponent::bWantsBeginPlay': bWantsBeginPlay was inconsistently enforced and is now unused. BeginPlay will now always be called for Actor Components. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+  
+  C:\Program Files\Epic Games\UE_4.19\Engine\Source\Runtime\Engine\Classes\Components/ActorComponent.h(211): note: see declaration of 'UActorComponent::bWantsBeginPlay'C:\Program Files\Epic Games\UE_4.19\Engine\Source\Runtime\Engine\Classes\Components/ActorComponent.h(211): note: see declaration of 'UActorComponent::bWantsBeginPlay'
+  
+C:\Users\Josh\Documents\Unreal Projects\repos\01_building_escape\Building_Escape\Source\Building_Escape\Grabber.cpp(72): warning C4996: 'UPhysicsHandleComponent::GrabComponent': Please use GrabComponentAtLocation or GrabComponentAtLocationWithRotation Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+  C:\Program Files\Epic Games\UE_4.19\Engine\Source\Runtime\Engine\Classes\PhysicsEngine/PhysicsHandleComponent.h(89): note: see declaration of 'UPhysicsHandleComponent::GrabComponent'
+  PositionReport.cpp
+  Building_Escape.init.gen.cpp
+C:\Users\Josh\Documents\Unreal Projects\repos\01_building_escape\Building_Escape\Source\Building_Escape\PositionReport.cpp(12): warning C4996: 'UActorComponent::bWantsBeginPlay': bWantsBeginPlay was inconsistently enforced and is now unused. BeginPlay will now always be called for Actor Components. Please update your code to the new API before upgrading to the next release, otherwise your project will no longer compile.
+  C:\Program Files\Epic Games\UE_4.19\Engine\Source\Runtime\Engine\Classes\Components/ActorComponent.h(211): note: see declaration of 'UActorComponent::bWantsBeginPlay'
+  Building_EscapeGameMode.gen.cpp
+  Grabber.gen.cpp
+  OpenDoor.gen.cpp
+  PositionReport.gen.cpp
+  [14/15] Link UE4Editor-Building_Escape.dll
+  [15/15] Link UE4Editor-Building_Escape.lib
+     Creating library C:\Users\Josh\Documents\Unreal Projects\repos\01_building_escape\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Building_Escape.lib and object C:\Users\Josh\Documents\Unreal Projects\repos\01_building_escape\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Building_Escape.exp
+     Creating library C:\Users\Josh\Documents\Unreal Projects\repos\01_building_escape\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Building_Escape.suppressed.lib and object C:\Users\Josh\Documents\Unreal Projects\repos\01_building_escape\Building_Escape\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-Building_Escape.suppressed.exp
+  Deploying Building_EscapeEditor Win64 Development...
+  Total build time: 171.08 seconds (Local executor: 92.26 seconds)
