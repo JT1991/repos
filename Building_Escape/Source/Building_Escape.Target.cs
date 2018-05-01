@@ -8,6 +8,7 @@ public class Building_EscapeTarget : TargetRules
 	public Building_EscapeTarget(TargetInfo Target) : base (Target)
 	{
 		Type = TargetType.Game;
+        ExtraModuleNames.Add("Building_Escape");
 	}
 
 	
