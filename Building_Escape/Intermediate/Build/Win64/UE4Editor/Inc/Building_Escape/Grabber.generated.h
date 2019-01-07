@@ -4,8 +4,8 @@
 	DO NOT modify this manually! Edit the corresponding .h files instead!
 ===========================================================================*/
 
-#include "ObjectMacros.h"
-#include "ScriptMacros.h"
+#include "UObject/ObjectMacros.h"
+#include "UObject/ScriptMacros.h"
 
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #ifdef BUILDING_ESCAPE_Grabber_generated_h
@@ -18,21 +18,19 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #define Building_Escape_Source_Building_Escape_Grabber_h_12_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUGrabber(); \
-	friend BUILDING_ESCAPE_API class UClass* Z_Construct_UClass_UGrabber(); \
+	friend struct Z_Construct_UClass_UGrabber_Statics; \
 public: \
-	DECLARE_CLASS(UGrabber, UActorComponent, COMPILED_IN_FLAGS(0), 0, TEXT("/Script/Building_Escape"), NO_API) \
-	DECLARE_SERIALIZER(UGrabber) \
-	enum {IsIntrinsic=COMPILED_IN_INTRINSIC};
+	DECLARE_CLASS(UGrabber, UActorComponent, COMPILED_IN_FLAGS(0 | CLASS_Config), CASTCLASS_None, TEXT("/Script/Building_Escape"), NO_API) \
+	DECLARE_SERIALIZER(UGrabber)
 
 
 #define Building_Escape_Source_Building_Escape_Grabber_h_12_INCLASS \
 private: \
 	static void StaticRegisterNativesUGrabber(); \
-	friend BUILDING_ESCAPE_API class UClass* Z_Construct_UClass_UGrabber(); \
+	friend struct Z_Construct_UClass_UGrabber_Statics; \
 public: \
-	DECLARE_CLASS(UGrabber, UActorComponent, COMPILED_IN_FLAGS(0), 0, TEXT("/Script/Building_Escape"), NO_API) \
-	DECLARE_SERIALIZER(UGrabber) \
-	enum {IsIntrinsic=COMPILED_IN_INTRINSIC};
+	DECLARE_CLASS(UGrabber, UActorComponent, COMPILED_IN_FLAGS(0 | CLASS_Config), CASTCLASS_None, TEXT("/Script/Building_Escape"), NO_API) \
+	DECLARE_SERIALIZER(UGrabber)
 
 
 #define Building_Escape_Source_Building_Escape_Grabber_h_12_STANDARD_CONSTRUCTORS \

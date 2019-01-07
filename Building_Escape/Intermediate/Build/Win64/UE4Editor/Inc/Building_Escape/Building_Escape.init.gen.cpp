@@ -4,8 +4,7 @@
 	DO NOT modify this manually! Edit the corresponding .h files instead!
 ===========================================================================*/
 
-#include "GeneratedCppIncludes.h"
-#include "Building_Escape.h"
+#include "UObject/GeneratedCppIncludes.h"
 #ifdef _MSC_VER
 #pragma warning (push)
 #pragma warning (disable : 4883)
@@ -24,7 +23,7 @@ void EmptyLinkFunctionForGeneratedCodeBuilding_Escape_init() {}
 			static const UE4CodeGen_Private::FPackageParams PackageParams = {
 				"/Script/Building_Escape",
 				PKG_CompiledIn | 0x00000000,
-				0xE9CA4A11,
+				0xBA93FDA6,
 				0x98602A89,
 				SingletonFuncArray, ARRAY_COUNT(SingletonFuncArray),
 				METADATA_PARAMS(nullptr, 0)

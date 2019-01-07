@@ -4,8 +4,8 @@
 	DO NOT modify this manually! Edit the corresponding .h files instead!
 ===========================================================================*/
 
-#include "ObjectMacros.h"
-#include "ScriptMacros.h"
+#include "UObject/ObjectMacros.h"
+#include "UObject/ScriptMacros.h"
 
 PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #ifdef BUILDING_ESCAPE_OpenDoor_generated_h
@@ -25,21 +25,19 @@ static inline void FDoorEvent_DelegateWrapper(const FMulticastScriptDelegate& Do
 #define Building_Escape_Source_Building_Escape_OpenDoor_h_13_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUOpenDoor(); \
-	friend BUILDING_ESCAPE_API class UClass* Z_Construct_UClass_UOpenDoor(); \
+	friend struct Z_Construct_UClass_UOpenDoor_Statics; \
 public: \
-	DECLARE_CLASS(UOpenDoor, UActorComponent, COMPILED_IN_FLAGS(0), 0, TEXT("/Script/Building_Escape"), NO_API) \
-	DECLARE_SERIALIZER(UOpenDoor) \
-	enum {IsIntrinsic=COMPILED_IN_INTRINSIC};
+	DECLARE_CLASS(UOpenDoor, UActorComponent, COMPILED_IN_FLAGS(0 | CLASS_Config), CASTCLASS_None, TEXT("/Script/Building_Escape"), NO_API) \
+	DECLARE_SERIALIZER(UOpenDoor)
 
 
 #define Building_Escape_Source_Building_Escape_OpenDoor_h_13_INCLASS \
 private: \
 	static void StaticRegisterNativesUOpenDoor(); \
-	friend BUILDING_ESCAPE_API class UClass* Z_Construct_UClass_UOpenDoor(); \
+	friend struct Z_Construct_UClass_UOpenDoor_Statics; \
 public: \
-	DECLARE_CLASS(UOpenDoor, UActorComponent, COMPILED_IN_FLAGS(0), 0, TEXT("/Script/Building_Escape"), NO_API) \
-	DECLARE_SERIALIZER(UOpenDoor) \
-	enum {IsIntrinsic=COMPILED_IN_INTRINSIC};
+	DECLARE_CLASS(UOpenDoor, UActorComponent, COMPILED_IN_FLAGS(0 | CLASS_Config), CASTCLASS_None, TEXT("/Script/Building_Escape"), NO_API) \
+	DECLARE_SERIALIZER(UOpenDoor)
 
 
 #define Building_Escape_Source_Building_Escape_OpenDoor_h_13_STANDARD_CONSTRUCTORS \
